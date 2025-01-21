@@ -1,0 +1,5 @@
+beautifulsoup4==4.12.3
+Requests==2.32.3
+selenium==4.27.1
+streamlit==1.41.1
+webdriver_manager==4.0.2

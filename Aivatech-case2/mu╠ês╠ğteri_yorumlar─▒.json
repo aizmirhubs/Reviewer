@@ -1,0 +1,2151 @@
+[
+    {
+        "customer_name": "Adnan Atsız",
+        "stay_date": "bir ay önce",
+        "review_text": "Odalar temiz ve bakımlıydı.\nKahvaltı yeterli ve kaliteliydi\nÇalışanlar ilgili ve güler yüzlüydü …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Ece Memet",
+        "stay_date": "bir yıl önce",
+        "review_text": "Konumu gerçekten harika, metroya , Akropoliye ve Ermou sokağına çok yakın. Bu kadar merkezi olmasına rağmen fiyat gerçekten uygun. Hizmet de gerçekten iyiydi, çalışanlar çok nazik , hatta 2. ye geldiğimde tanımışlardı aradan yaklaşık 1 yıl …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Levent Karacaoğlu",
+        "stay_date": "10 ay önce",
+        "review_text": "Atina'da 4 gece konakladık.\nAtina Havalimanindan ulaşımı kolay. …",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Davut Baysal",
+        "stay_date": "bir yıl önce",
+        "review_text": "Hotel, öncelikle Atina şehrinin tarihi bölgesinin tam ortasında yer alıyor. Parlemento binası ve Akropolis’in tam ortasında, ayrıca Atina’nın kalbi Ermou caddesininde tam ortasında yer alıyor. Odaları temiz, ama diğer odaların musluk ve …",
+        "rating": 6.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "aysell 79",
+        "stay_date": "9 ay önce",
+        "review_text": "3 gece kaldik ve cok memnun ayrildik.\ntemiz ve kahvaltisi guzeldi.\nbize kahvalti esnasinda  tum otelin sorumlusu oldugunu soyleyen bayan cok …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Mustafa Mert SAĞLAM",
+        "stay_date": "bir yıl önce",
+        "review_text": "Konumu çok iyiydi. Hem ulaşım çok kolay, hem turistik yönden  merkezi hem de altında discount market var ve su temini rahat :) . Çalışanlar nazik, güleryüzlü ve ilgiliydi. Kahvaltı fena değildi. Açık büfe. Scramble egg güzeldi. Börek vs …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "berna k",
+        "stay_date": "Tripadvisor\n, bir yıl önce",
+        "review_text": "Şehre havalimanından metro ile ulaşım kolay.Monastiraki metrosundan 5/6 dakika yürüme mesafesinde otel.Antik simge yapılar müzeler çok güzeldi her yere yürüyerek gittim. (Citymapper uygulamasını kullandım.) Otelin çatısından Acropolis …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "lütfiye AYKUT",
+        "stay_date": "3 hafta önce",
+        "review_text": "Gayet guzel manzarası olan merkezi konumda guzel yer.",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "sinem e",
+        "stay_date": "Tripadvisor\n, 6 yıl önce",
+        "review_text": "Plaka Hotel, öncelikle konumu yüzünden tercih edilmeli. Yeri çok güzel, fazla metro kullanmamıza gerek kalmadı. Çok merkezi bir yerde olduğu için, gün ortasında otele gidip eşyalarınızı bırakabiliyorunuz veya dinlenebiliyorsunuz. Öğleden …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Evriminyo",
+        "stay_date": "6 yıl önce",
+        "review_text": "Otelin konumu mükemmel. Plaka'nın en merkezi yerinde. Gezmekten yoruldukça gidip odamızda dinlendik. Odalar biraz küçük olsa da Avrupa standartlarına göre iyi sayılır. Temizlik açısından da bir sorun yaşamadık, odamız pırıl pırıldı. Kat …",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Hayrettin Seheroğlu",
+        "stay_date": "bir yıl önce",
+        "review_text": "Hotelin konumu, odaları, hizmeti, temizliği çok çok iyi. En iyisi konumu Atina'da kesinlikle kalınacak en iyi yer.",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Ferhat Duran",
+        "stay_date": "5 yıl önce",
+        "review_text": "Otel konumu Harika ben eşimle 3 gece kaldım gerçi Atina’ya gezmek için gitmiştik ama 3 gece fazla geldi bir bilemedin iki güne Atina’yı geziyor sun ama otelden yana hiç sıkıntı olmadı yürüme mesafesinde her yeri gezip geri geldik. Biraz …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "ozan ek",
+        "stay_date": "9 yıl önce",
+        "review_text": "Dıştan görüntüsü eski gözüksede içi bakımlı odalar güzel,plaka nın merkezinde cafelere ermou caddesine çok takın internet bağlantısında hiç sorun yaşamadık ve kahvaltısıda çok güzeldi ayrıca gece terasından acropolise bakmayı unutmayın",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "serdar t",
+        "stay_date": "Tripadvisor\n, 5 yıl önce",
+        "review_text": "Otelin konumu çok merkezi......Fiyatlar makul,odalar yeterli.....Otel terasının manzarası muhteşem...Sadece teras için tercih edilebilir.....Biz ayrıldığımız gün renovasyona giriyordu...Monastiraki meydana çok yakın...",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "ERDAL B",
+        "stay_date": "Tripadvisor\n, 5 yıl önce",
+        "review_text": "Ocak 2019 da ilk yurt dışı seyhatimizde bu otelde kaldık.Atina eski şehrinin merkezinde her yere yürüme mesafesinde temiz bir otel.Çalışanları yardımsever.Sorunlar ile ilgili.Otelin sadece muhteşem terası bile kalmak için yeterli.Özellikle gece manzarası görülmeye değer. Otel yönetimine teşekkür ederim",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Tuba F",
+        "stay_date": "Tripadvisor\n, 4 yıl önce",
+        "review_text": "Atina'nin en keyifli ve hareketli yeri olan Plaka bolgesinde yer aliyor. Heryere yurume mesafesinde. Cok temiz ve calisanlari bir o kadar guleryuzlu. ||Terasi muhtesem. Ama en en guzel yani hem tum turistik alanlara yakin olusu hem de guvenilir bir bolgede yer aliyor olmasi.||Tavsiye ediyoruz...",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Ahmet K",
+        "stay_date": "Tripadvisor\n, 6 yıl önce",
+        "review_text": "Oteli konumu nedeniyle tercih ettik ve çok memnun kaldık.||Kahvaltısı çok başarılı Avrupa da pek olmayan çeşitlilikte, personel yardımsever ve ilgili.||Sadece sabah çok erken çıkış yapan toplu bir grubun çıkardığı gürültü nedeniyle rahatsız …",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "engin b",
+        "stay_date": "Tripadvisor\n, 6 yıl önce",
+        "review_text": "Otel plaka bölgesinde ve her yere yürüme mesafesinde bu çok büyük bir avantaj odaları bu sınıftaki bir otel için yeterli konforda ancak temizlik konusunda biraz daha özenli olmalılar kahvaltısı gayet güzel ve çeşitleri bol personel …",
+        "rating": 6.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Vural C",
+        "stay_date": "Tripadvisor\n, 7 yıl önce",
+        "review_text": "atinanın her yerine ulaşmanın tek adresi bence...||Güne başlarken harika bir kahvaltı temiz  ,büyük oda ve güleryüzlü, yardımsever personel...||Otelin çevresinde bar resturant ve cafeler bulunmakta||otobüs imetro durakları çok yakın",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Ahmet Huyuklu",
+        "stay_date": "6 yıl önce",
+        "review_text": "Konum,servis,karşılama,uğurlama konfor olarak tavsiye edeceğim ve tekrar mutlaka ziyaret etmeyi düşündüğüm bir tesis.personel yardım sever ve güler yüzlü manzara severler 4.kattan başlayarak oda tavsiyemdir.",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Tuba Fidancı",
+        "stay_date": "4 yıl önce",
+        "review_text": "Atinanin en keyifli bolgesi olan Plaka'da. Tum guzel meydanlara, kafelere..vb her duraga yuruyerek ve maksimum 10 dk da ulasabileceginiz bir destinasyon..",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Ozlem Mailoglu",
+        "stay_date": "11 yıl önce",
+        "review_text": "Super bir yer. Gunduz gezdikten sonra mutlaka aksam oturup birseyler yenilip icilmeli.",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Banu Atik",
+        "stay_date": "5 yıl önce",
+        "review_text": "Tek kelime ile MUHTEŞEM konum personel temizlik harika güler yüz",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "mehmet erişken",
+        "stay_date": "5 yıl önce",
+        "review_text": "Mükemmel konum, mükemmel hizmet. Gözünüz kapalı gidin kalın.",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "halit togay",
+        "stay_date": "5 yıl önce",
+        "review_text": "Eh işte.",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "refiye sezgin çetin",
+        "stay_date": "3 hafta önce",
+        "review_text": "-",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "özgenç fidanoğlu",
+        "stay_date": "10 ay önce",
+        "review_text": "-",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Larry H",
+        "stay_date": "2 hafta önce",
+        "review_text": "Bu oteli SEVİYORUZ. Muhteşem konum, mükemmel fiyat. Odalar konforludur ve personel her türlü ihtiyaç için çok cana yakın ve yardımseverdir.   500 metre mesafede iki bakkal. …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Pauline Lelaki",
+        "stay_date": "bir ay önce",
+        "review_text": "Bu otelde her şeyin ne kadar harika olduğuna çok şaşırdım! Konumu rakipsiz, her şeyin tam merkezinde, odadan harika manzaralar ve aynı zamanda panoramik Atina manzarasına ve Parthenon'un çok yakın manzarasına sahip olduğunuz terastan da …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Marco Coto",
+        "stay_date": "bir hafta önce",
+        "review_text": "Plaka Otel'deki son kalışımız kesinlikle harikaydı. Odalar temiz ve konforluydu,\nÇatı katındaki bar, kalışımızın en dikkat çekiciydi. Akropolis'in nefes kesen …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Amir",
+        "stay_date": "2 hafta önce",
+        "review_text": "Bu otel, paranızın karşılığını olağanüstü bir değerle sunuyor! Odalar ihtiyacınız olan her şeyle iyi bir şekilde donatılmıştır ve kusursuz bir şekilde muhafaza edilmektedir. Kişi başına dört havlu ya da dağlar dolusu yastık gibi beş …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Judy D",
+        "stay_date": "Tripadvisor\n, 2 ay önce",
+        "review_text": "Değer olağanüstü. Check-in hızlı ve etkiliydi. Odalar temiz ve konforluydu. Kapsamlı, ücretsiz kahvaltı olağanüstüydü! Çatı katındaki barda harika bir manzara, personel ve içecekler vardı. Konumu mükemmeldi. Genel olarak, bu otel …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Rosa C",
+        "stay_date": "Tripadvisor\n, bir ay önce",
+        "review_text": "Plaka mahallesinin kalbinde, ana meydanların arasında, havaalanı otobüsü ve 2 metro durağıyla harika, harika konum. Mağazaların, restoranların, süpermarketlerin bulunduğu ticari bölge ve Akropolis girişine 10 dakika uzaklıkta. Otel 3 …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Michael W",
+        "stay_date": "Tripadvisor\n, 4 hafta önce",
+        "review_text": "Bu muhteşem bir otel.  Uygun fiyatlar, özenli ve cana yakın personel ve konum olarak rakipsiz: Odamız geceleri Akropolis'in muhteşem manzarasına sahipti ve Plaka Hotel, şehrin kültürel mirasındaki ünlü mekanların çoğunun merkezinde yer alıyor. .  Bunu yeterince övemem.  Aslında ilk defa Tripadvisor'da bir otel yorumu yazıyorum.",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Iara Kapszuk",
+        "stay_date": "2 hafta önce",
+        "review_text": "Atina'nın merkezinde mükemmel konum. Odamızdan Parthenon'u görebiliyordunuz.\nMetro istasyonuna çok yakın, havaalanından oraya ulaşmak için ideal.\nKahvaltı oldukça bol ve çeşitlidir. …",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "vilma Iotti",
+        "stay_date": "bir hafta önce",
+        "review_text": "Oteldeki deneyimimiz mükemmeldi. Güzel oda. Her şey çok temiz. Muhteşem kahvaltı. Personel çok dost canlısı ve yardımsever. Mükemmel konum. Bunu tavsiye ediyoruz!",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Tom M",
+        "stay_date": "Tripadvisor\n, bir ay önce",
+        "review_text": "Plaka Otel'deki konaklamamızı her zamanki gibi çok sevdik.  Konaklamamızı olağanüstü kıldığı için Eva'ya çok teşekkür ederiz.  Odamız Akropolis manzaralıydı.  Kahvaltı harikaydı ve yatağımız rahattı.  Bu Atina'daki en iyi otel ve konumu rakipsiz. Geri dönmek için sabırsızlanıyoruz.",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Jet55443080812",
+        "stay_date": "Tripadvisor\n, 2 ay önce",
+        "review_text": "Gezimizden önce Atina'da kaldık. Eylül 2024'ün sonu. Mükemmel konum. Check-in işleminden önce valizlerimizi muhafaza edebildik. Akropolis manzaralı hoş bir restoranları var. Harika kahvaltı. Mükemmel personel. Kesinlikle tavsiye ederim.",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Shae K",
+        "stay_date": "Tripadvisor\n, bir ay önce",
+        "review_text": "Bu bizim bir çift olarak ilk tatilimizdi ve inanılmazdı, bu otel MÜKEMMEL MERKEZİ KONUM, daha mükemmel bir konuma sahip olamazsınız! Otel sevimli ve rahat, personel inanılmaz derecede nazik ve yardımsever, odalar güzel ve tertemiz, ferah, …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Rick Doesburg",
+        "stay_date": "2 hafta önce",
+        "review_text": "Dört gün boyunca bu otelde kaldık. Konumu mükemmel ve çatı barı harika. Ancak odamız yeni görünüyordu, ancak daha yakından baktığınızda her şey o kadar da iyi değildi. Kaplama mükemmel değildi, banyonun kapı çerçevesi gevşekti, klozet …",
+        "rating": 6.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Lawrence Radcliffe",
+        "stay_date": "2 ay önce",
+        "review_text": "Ufacık odalar temiz, modern ve işlevseldir.  İki küçük (4 kişilik) asansör, tüm katlara kolay erişim sağladı.\nHer odada bireysel iklim kontrolü için mini split AC \\ ısı ünitesi …",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Martín D",
+        "stay_date": "Tripadvisor\n, bir ay önce",
+        "review_text": "4 ve hatta 5 yıldızlı hizmet veren 3 yıldızlı bir otel. Personel harika ve Atina'ya seyahat etmek için ihtiyacınız olan şey bu. İyi konumlanmış. Temiz. Sizi şımartıyorlar ve değiştireceğim tek şey kahvaltının çeşitliliği olurdu ama onları …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Luke Kurtz",
+        "stay_date": "4 hafta önce",
+        "review_text": "Tek başına konumu için bile kalmaya değer, iyi büyüklükteki odalara sahip, mütevazı fiyatlı harika bir otel. …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Lorraine W",
+        "stay_date": "Tripadvisor\n, 3 ay önce",
+        "review_text": "Bu otelde muhteşem zaman geçirdik.  Akropol manzaralı odamız mükemmeldi.  Personel çok yardımsever ve kahvaltı da harikaydı. Harika konumu ve çok memnun kaldığımız Atina'daki muhteşem konaklamamız için bu oteli seçin. Ne güzel bir şehir, ne güzel insanlar ❤️",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Phils Photos",
+        "stay_date": "bir ay önce",
+        "review_text": "Atina'da bir şehir gezisi için ideal otel.\nÇok güler yüzlü personel.\nİyi kahvaltı. …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Nicki Byrne",
+        "stay_date": "2 ay önce",
+        "review_text": "Bu otel restoranlar, mağazalar, akropolis ve agora için mükemmel bir konuma sahiptir. Tesisler temiz ve hepsi çalışıyor, kahvaltı da muhteşem. Üstüne üstlük, personel harika, dost canlısı, yardımsever ve eğlenceli. …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Dean K",
+        "stay_date": "Tripadvisor\n, 2 ay önce",
+        "review_text": "Konum konum konumu. Açıkçası konumu şehir merkezinde en iyisiydi. ||Böylesine harika bir konumla biraz gürültülüydü ama çok fazla bir şey değildi.  Personel çok yardımseverdi, özellikle de Eva. ||Şehrin göbeğinde olmaktan memnunsanız kalmak …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Tiziana G",
+        "stay_date": "Tripadvisor\n, 2 ay önce",
+        "review_text": "Temiz ama bakımsız. Odadaki havluları veya diğer şeyleri değiştirirken küçük alanlar ve çok az dikkat. Çok az seçeneği olan çok küçük bir kahvaltı salonu. Merkezde çok uygun bir konum. Güvenli olmayan kartla güvende. Geceleri çok gürültülü.",
+        "rating": 6.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Βασίλης Ταλιαντζής",
+        "stay_date": "3 hafta önce",
+        "review_text": "Tertemiz odaları olan çok iyi bir otel. Yardımsever ve kibar personeli ve her zaman size yardımcı olmaya ve sorularınızı yanıtlamaya hazır. Kahvaltı oldukça iyiydi ve tüm besin değerlerini kapsıyordu ve iyi olan şey, aynı zamanda bir snack bara da sahip olması! Bir dahaki sefere geri döndüğümde ziyaret edebileceğim Akropolis manzarası!",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Cadu Garcia",
+        "stay_date": "bir ay önce",
+        "review_text": "Eva bu otelin en büyük özelliğidir. Çok dost canlısı bir personel, dumanlı ve destek olmaya istekli. Farklı diller konuşuyoruz. Onunla tanışmak bir zevkti.\nOnun dışında tekrar kalacağımı hissetmedim. Konumu harika. Metro istasyonuna ve …",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Akshay Mohikar",
+        "stay_date": "bir ay önce",
+        "review_text": "Çok güzel bir otel. Temiz odalar, iyi personel ve mükemmel konum. Tüm ana turistik mekanlara ve etraftaki birçok restorana / restorana hemen hemen yürüme mesafesinde.",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Ginevra Laminetti",
+        "stay_date": "bir ay önce",
+        "review_text": "Kasım ayında burada üç gece kaldık. Oda biraz eskiydi, banyonun dışında en az bir ayna olsaydı harika olurdu. Ayrıca ısıtıcı çalışmıyordu ve ne yazık ki oda çok soğuktu. Kahvaltı iyiydi, oda birçok insan için biraz küçük ama genellikle …",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Danny Bowers",
+        "stay_date": "4 ay önce",
+        "review_text": "Harika bir konumda çok iyi bir otel.  Süslü değil, sadece mükemmel bir kahvaltı ile gerçekten harika bir otel. …",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Claudio S",
+        "stay_date": "Tripadvisor\n, bir ay önce",
+        "review_text": "Syntagma meydanı ile Monastiraki arasında merkezde yer alan ve Akropolis, Parlamento gibi birçok ilgi çekici yere yakın, her saat nöbet değişimine şahit olabileceğiniz yapı (Pazar günü saat 11.00'de aynı nöbet değişimi ciddi bir törenle …",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "高生",
+        "stay_date": "3 ay önce",
+        "review_text": "İlk gün Parthenon'un çatıdan manzarası inanılmaz derecede etkileyiciydi 👍😭\nOda da geniştir\nYatak yumuşak …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Gra-Sue Brown",
+        "stay_date": "3 ay önce",
+        "review_text": "Atina'ya kısa bir ziyaret için ideal bir konuma sahip olan otel, şehrin arkeolojik alanlarının çoğuna yakındır.\nEylül ayında yapılan bir ziyaret olduğundan, 5 dakikalık yürüme mesafesindeki …",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Sonja Klenke",
+        "stay_date": "2 ay önce",
+        "review_text": "Otel, Mora Yarımadası turumuzun son durağıydı ve toplu taşıma araçlarıyla en iyi şekilde ulaşılabilmektedir. Plaka'nın ortasında, Akropolis kapının önünde ve her şey yürüme mesafesinde, aynı zamanda geceleri oldukça fazla trafik ve gürültü …",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Meg Meyer",
+        "stay_date": "2 ay önce",
+        "review_text": "Atina'yı ziyaret etmek için mükemmel bir konumda yer alan bu otel temizdi, iyi işletiliyordu ve çatı katındaki restoran, mükemmel yiyecek ve içeceklerin yanı sıra inanılmaz bir Akropolis manzarası sunuyordu.  Bir dahaki sefere Atina'dayken tekrar ziyaret edeceğim.",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Karsten Klenke",
+        "stay_date": "2 ay önce",
+        "review_text": "Otel iyi bir konuma sahiptir. Tarihi yerler, restoranlar, mağazalar ve havaalanına giden metro treni yürüme mesafesindedir. Sürgülü pencere ve/veya balkon kapısı açıkken de aynı şekilde yüksek ses çıkıyor. Personel çok dost canlısı ve …",
+        "rating": 6.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "SEGRETERIA S",
+        "stay_date": "Tripadvisor\n, 5 ay önce",
+        "review_text": "Atina'nın \"gece hayatı\"nın merkezinde yer alan, her türlü konforla donatılmış güzel bir otel. Akropolis'e ve şehrin hareketli sokaklarına bir taş atımı mesafedeki konumu, onu kesinlikle kayda değer bir otel kılıyor. Özellikle akşamları Akropolis'in nefes kesen manzarasına sahip, barlı güzel bir teras önerilir.",
+        "rating": 6.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "natalie amell",
+        "stay_date": "3 ay önce",
+        "review_text": "Rahat yataklar, konum daha iyi olamazdı, çok sayıda seçenekle harika bir kahvaltı, SADECE olumsuz tarafı odalar arasındaki ses yalıtımının çok az olmasıydı.\nÇatı katındaki restoranın manzarasını çok sevdim. Yemekler mükemmeldi ama servis yoktu.",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Martín Durán García",
+        "stay_date": "bir ay önce",
+        "review_text": "4 ve hatta 5 yıldızlı hizmet veren 3 yıldızlı bir otel. Personel harika ve Atina'ya seyahat etmek için ihtiyacınız olan şey bu. İyi konumlanmış. Temiz. Sizi şımartıyorlar ve değiştireceğim tek şey kahvaltının çeşitliliği olurdu ama onları …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Elisa B",
+        "stay_date": "Tripadvisor\n, 5 ay önce",
+        "review_text": "Mükemmel konum, çok merkezi, düşündürücü aydınlatılmış Parthenon manzaralı çatı bahçesi.|Konforlu yataklar, çok yumuşak yastıklar. Hoş bir küvete sahip temiz banyo, odada ışık eksikliği yoktu.|Kahvaltı için çok esnek zamanlar.",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Nicole Tucker",
+        "stay_date": "3 ay önce",
+        "review_text": "Otel mükemmel ve merkezi bir konumdadır. Odalar küçük ama konforludur. Kahvaltı salonu genişti, çeşitler çok fazlaydı. Personel çok dost canlısıydı.",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Lambert van Kollenburg",
+        "stay_date": "2 ay önce",
+        "review_text": "Çatı barı - restoranı olan iyi bir otel. Nazik ve arkadaşça.\nKahvaltı da çok iyi ve eksiksiz.\nMetroyla yolculuk da oldukça kolay, 1 günlük geçiş ücreti 4,30€ ve 24 saat …",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Evgeny Dolgopyat",
+        "stay_date": "bir ay önce",
+        "review_text": "Bu otelde 4 gece kaldım. İdeal konum, konforlu odalar, günlük temizlik. Doyurucu bir kahvaltı. Bu oteli gönül rahatlığıyla tavsiye ediyorum 👍 …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Wendy Montgomery",
+        "stay_date": "7 ay önce",
+        "review_text": "Atina'nın tam kalbinde muhteşem bir otel. 3 gece kaldık. Kahvaltı seçimi benim için glutensiz seçenekler de dahil olmak üzere mükemmeldi ve bir gece çatıdaki restoranda muhteşem bir akşam yemeği yedik. Şehrin ve akropolün manzarası muhteşem. Tüm personel çok dost canlısı ve yardımseverdi. Kesinlikle ziyaret etmeye değer.",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Valentina Fiora",
+        "stay_date": "bir ay önce",
+        "review_text": "Sadece bir gece uyuduk ama oda özellikle geniş olmasa da Parthenon manzarasına sahipti ve bu yeterliydi.\nÇatı bahçesi Akropolis'in olağanüstü manzarasını sunmaktadır.",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Gert Nap",
+        "stay_date": "3 ay önce",
+        "review_text": "Plaka bölgesinde çok güzel bir şehir oteli. Akropolis yakınında. Yakınlarda çok sayıda mağaza ve restoran bulunmaktadır. Otel, Akropolis'in güzel manzarasına sahip çok hoş bir çatı terasına sahiptir.",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Raana Rt",
+        "stay_date": "6 ay önce",
+        "review_text": "Fiyatına göre 5 yıldız verdim. Gerçekten 3 yıldızlı bir otelin niteliklerini karşıladı. Odamda duş ve küvet vardı. Restoranın Akropolis manzarasına sahip olmadığını unutmayın. Ama güzeldi. Otelin konumu çok iyi her yere yakın.",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Gamal El Din Taha",
+        "stay_date": "2 ay önce",
+        "review_text": "Bu otele girdiğimde üç yıldızlı kategoride olduğunu gördüm ama bu güzel otelde yaşamak gerçekten insana 5 yıldızlı oteldeymiş gibi hissettiriyor. Personel, hizmetler ve temizlik arasında süper bir 5 yıldız ve bu fırsatı değerlendirip herkese teşekkür etmek istiyorum ❤️",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Jade Miceli",
+        "stay_date": "7 ay önce",
+        "review_text": "Dürüst olmak gerekirse kalışımızdan daha fazla keyif alabileceğimi sanmıyorum. Personel, check-out için sabah 6'ya taksi rezervasyonu yapmak istediklerinde hemen yardımcı oldular, kahvaltıda etrafta dolaşan ve o günkü seyahatleriniz veya …",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Guy M",
+        "stay_date": "Tripadvisor\n, 6 ay önce",
+        "review_text": "Plaka Otel'de harika zaman geçirdik. Yardımsever ve özenli personel. 7. kattaki teras muhteşem ve restoran bize ilginç bir menü sunuyor. Otelin konumu gerçekten harika, başlıca turistik mekanlara yakın.",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Jon D",
+        "stay_date": "Tripadvisor\n, 3 ay önce",
+        "review_text": "Atina'daki Plaka Otel'deki tüm personele teşekkür etmek istiyorum.|Çok yardımsever ve kibardılar ve bizi çok iyi karşıladılar.|Yolculuktan önce 1 gece ve geziden sonra 1 gece Plaka Otel'de kaldık. yolculuk.|Otel harika bir konumda, önemli …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Tina D",
+        "stay_date": "10 ay önce",
+        "review_text": "Güzel otel, tüm tarihi mekanlara yürüme mesafesinde yer almaktadır. Personel kibar, güleryüzlü ve son derece yardımseverdi. Oda, geceleri aydınlatılan Akropolis'in muhteşem manzarasına sahipti ve manzarayı daha da büyülü hale getiriyordu. …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Jacqueline Kaati",
+        "stay_date": "7 ay önce",
+        "review_text": "Bu uygun fiyatlı ve merkezi bir oteldir ve Monastiraki'nin restoranlarına ve geleneksel bit pazarlarına yürüme mesafesindedir. Otelde ucuz içeceklerin ve Akropolis'in harika manzarasının sunulduğu hoş bir çatı barı bulunmaktadır. Bar müdürü …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Helene D",
+        "stay_date": "Tripadvisor\n, 5 ay önce",
+        "review_text": "Atina'yı ziyaret etmek için mükemmel konum.|Küçük standart odalar ve caddeye bakan odalar gürültülü.|Ama mükemmel bir konaklama geçirdik, yataklar çok iyi.|Akropolise bakan çatı terasında çok iyi bir restoran ve personel çok özenli.",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Anita Martins",
+        "stay_date": "4 ay önce",
+        "review_text": "3 kişiydik ve odamız gerçekten berbattı... Kirli duvara bakan kırık pencere, perde düşüyor, yaylı şilteli 3. yatağın üzerinde uyumak imkansız! Ne yazık ki personelin nezaket eksikliğini ve berbat kahvaltıyı da eklemek zorundayım! Çok yazık!",
+        "rating": 2.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Bert Middelkamp",
+        "stay_date": "bir hafta önce",
+        "review_text": "İdeal konumlu, temiz bir otel.\nNefes kesen manzaralara sahip güzel çatı restoranı.",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Amaretto Strings",
+        "stay_date": "6 ay önce",
+        "review_text": "Büyük küçük otel, tüm önemli yerlere yürüme mesafesinde. Kahvaltı harikaydı, ıspanaklı böreğe bayıldım! Servis harikaydı. Atina'daki diğer 4 yıldızlı otellerden birkaçından daha iyi",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Μαρίνα Καραγιάννη",
+        "stay_date": "2 ay önce",
+        "review_text": "Atina'nın merkezinde mükemmel bir otel. Oda konforlu yataklar ve yastıklarla tertemizdi. Kahvaltı her zevke uygun her türlü lezzetle zengindi. Personel her zaman güler yüzlü ve yardımsever, bir sonraki Atina ziyaretimde kesinlikle bunu seçeceğim.",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "David Menashy",
+        "stay_date": "7 ay önce",
+        "review_text": "Daha iyi bir konum düşünemiyorum; Odamızdan Akropolis'in muhteşem manzarası, yalnızca üst kattaki teras manzarasıyla daha da güzelleşiyor. Odalar çok rahat, personel güleryüzlü. Kalabalık şehirde sakin bir vaha. Tavsiye edilen!",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Michele SF",
+        "stay_date": "3 ay önce",
+        "review_text": "Temiz ama küçük odalara sahip sessiz bir otel.  Konumu yenemezsin!  Çatı katındaki restoran ve bar olağanüstü manzaralara sahiptir!",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Carlota Farina",
+        "stay_date": "6 ay önce",
+        "review_text": "Çok iyi bir otel, Monastiraki'nin yakınında süper merkezi (metro durağı 4 dakika yürüme mesafesindedir ve havaalanına direkt hattır).\nAkropolis manzaralı bir oda seçerseniz harika olur. …",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Virginia Silva",
+        "stay_date": "11 ay önce",
+        "review_text": "🇦🇷 Sadece muhteşem bir deneyim olduğunu söyleyebilirim. Otelin şehrin merkezinde yer alması, havalimanından çok kolay ulaşım sağlanabileceği ve her yere kolaylıkla hareket edilebileceği anlamına geliyor. Otel çalışanlarına gelince hepsinin …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Rox Avila",
+        "stay_date": "8 ay önce",
+        "review_text": "Plaka Otel ailem ve benim Avrupa gezimiz sırasında kaldığımız en iyi oteldi. Roma, İsviçre ve Paris'te seyahat ettik ve otellerde kaldık ama bu her şeyde en iyisiydi - fiyat, konum, servis ve oda. Havaalanından sadece bir tren yolculuğu …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Fedele M",
+        "stay_date": "Tripadvisor\n, 8 ay önce",
+        "review_text": "Oda küçüktü, neyse ki otel çok merkezi bir konumda ve bu nedenle tüm Atina'yı yürüyerek gezmek için çok uygun. Yatağı beğenmedim, daha geniş olmasını tercih ettim, teras güzel. Kahvaltı değişiyor ama ürünleri pek beğenmedim.",
+        "rating": 6.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "BATUHAN TUNCAY",
+        "stay_date": "bir ay önce",
+        "review_text": "Mükemmel konum. Güler yüzlü personel. Konumu nedeniyle odanızda bazı şehir sesleri mevcuttur. Ama bu benim için sorun değil. Şimdi kahvaltıya bakalım",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Catherine D",
+        "stay_date": "Tripadvisor\n, 8 ay önce",
+        "review_text": "Çok çok iyi konumdaki otel, Monastiraki Meydanı'ndan bir taş atımı uzaklıkta. Çok hoş bir karşılama. Odalar çok güzel. Şehir tarafında ortalama manzara, ancak Akropolis tarafında daha fazla kullanılabilirlik. Yüksek kattaki bir oda talep …",
+        "rating": 6.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Jessica Viscusi",
+        "stay_date": "bir yıl önce",
+        "review_text": "Bu otel çok merkezi bir konumda, yürüyerek merkezi çok iyi bir şekilde dolaşabilirsiniz. Güler yüzlü personel, her sabah kahvaltıda İtalyanca konuşan resepsiyondaki kız bize şehri ziyaret etmemiz için tavsiyeler verdi. Herkes bize ve 1 …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Ron deR",
+        "stay_date": "7 ay önce",
+        "review_text": "Atina şehir gezisi için harika bir otel.\nBasit ama ihtiyacınız olan her şey orada.\nHarika konumu, çatı katındaki bardan güzel manzara. …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Florent Fioux",
+        "stay_date": "7 ay önce",
+        "review_text": "Küçük bir odada 2 güzel gece geçirdik... ama Akropolis'in harika manzarasına sahip. Karşılama çok sıcaktı. Bu otelin gerçek artısı: Akropolis üzerinden Atina'nın şüphesiz en güzel manzaralarından birine sahip muhteşem bir teras. Orada bir şeyler içebilir veya yemek yiyebilirsiniz, çok güzel ve garsonlar çok hoş!",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Jinny Park",
+        "stay_date": "2 hafta önce",
+        "review_text": "Evin temizliği oldukça ortalama ve bardağın üzerinde yıkanmamış ruj izleri bile mi var? Aklımı kaybediyorum 🤮 …",
+        "rating": 2.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Jenni Marton",
+        "stay_date": "6 ay önce",
+        "review_text": "Bu otel Atina ziyaretimiz için mükemmeldi. Akropolis manzarası, çok çeşitli kahvaltı ve alışveriş, restoran ve eğlence için mükemmel bir konum.",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Su R",
+        "stay_date": "Tripadvisor\n, 10 ay önce",
+        "review_text": "Basit bir otel, güzel ve temiz odalar. Çok iyi bir kahvaltı büfesi servisi. Mükemmel konum… Monastiraki Meydanı'ndan 100 metre uzaklıkta, gece gündüz birçok yaşam var. Tek dezavantajı: sabahları katedral çanları. Atina'ya dönersek tekrar ederdik.",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Christine",
+        "stay_date": "Priceline\n, 3 ay önce",
+        "review_text": "Olumlu: Mükemmel konum, muhteşem akropolis manzaralı çatı barı  …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "David Pill",
+        "stay_date": "5 ay önce",
+        "review_text": "Mükemmel konum... güzel açık büfe kahvaltı... Akropolis'e bakan kokteyller için muhteşem çatı katı... ama hepsinden önemlisi, resepsiyondaki servis olağanüstüydü.",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Julie Guiney",
+        "stay_date": "bir yıl önce",
+        "review_text": "Bu otel her açıdan beklentilerimizi aştı. Bunu esas olarak çatıdan muhteşem manzara için seçtik. Ayrıca ana meydana ve Monasteraki İstasyonu'na çok yakın, harika bir konumdadır. Personel çok yardımsever ve güleryüzlüydü ve öğleden sonraki …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Daniel W",
+        "stay_date": "bir yıl önce",
+        "review_text": "12/10⭐️ Tüm doğru kutuları işaretleyen en iyi otellerden biri.\nPlaka'nın güzel semtinde mükemmel bir konuma sahip olan otel, Syntagma X95 havaalanı otobüs durağına ve metro istasyonuna 10 dakikalık yürüme mesafesindedir. …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Liliana A",
+        "stay_date": "Tripadvisor\n, 10 ay önce",
+        "review_text": "Öncelikle bize mükemmel bir konaklama sundukları için otel sahiplerini tebrik etmek istiyorum.   Otele girdiğimiz andan itibaren bize çok nazik davranan tüm personele en içten teşekkürlerimi sunuyorum.  İki günlük konaklamamızın tamamından …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Eleanor Ainsworth",
+        "stay_date": "11 ay önce",
+        "review_text": "İhtiyacınız olan her şeye, kültürel mekanlara, alışverişe ve yemeğe kısa bir yürüyüş mesafesinde.\nÖzel bir Yunan köşesi ile muhteşem kahvaltı. …",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Kris Puleosi",
+        "stay_date": "9 ay önce",
+        "review_text": "Bu otel bize göre 2 otel yıldızından fazlasını hak ediyor. Harika olduğunu gördük. …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Mrs Taylor",
+        "stay_date": "10 ay önce",
+        "review_text": "Beş yıldızlı hizmet sunan, çatı terasından ve bazı odalarından muhteşem Akropolis manzarası sunan üç yıldızlı bir otelden daha fazlasını isteyemezsiniz. Oda ne kadar yüksek olursa manzara o kadar iyi olur. Ayrıca, otelin ön tarafındaki …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "RS Spillett",
+        "stay_date": "9 ay önce",
+        "review_text": "Otel, Atina'nın Plaka bölgesinde yer almaktadır.  Dolaşmak, yemek yemek, alışveriş yapmak ve sadece görmek için harika bir alan.  Akropolis'e sadece 15 dakikalık yürüme mesafesindedir.  Personel harikaydı ve kahvaltı üç yıldızlı bir otel için beklediğimden daha fazlaydı.",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "FarAway61643339048",
+        "stay_date": "Tripadvisor\n, bir yıl önce",
+        "review_text": "Tüm beklentileri fazlasıyla karşıladı. Çok cana yakın personel ve İspanyolca konuşuyorlardı. |Kahvaltı fazlasıyla doğruydu.|Atina'nın en turistik iki bölgesinin tam ortasında, her şeye çok yakın, doğrudan havaalanına giden metro hattına 5 …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Carlos Bustamante Marcos",
+        "stay_date": "4 ay önce",
+        "review_text": "Çok iyi konum, küçük ve sade odalar. Muhteşem çatı katı, Akropolis'in ayrıcalıklı manzarası.",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "antonio d",
+        "stay_date": "Tripadvisor\n, bir yıl önce",
+        "review_text": "Ailemle birlikte 4 gece bu otelde kaldım. Otel Monastiraki meydanının yakınında çok merkezi bir bölgede, havaalanından gelen metroya 100 metre uzaklıkta olduğundan fazlasıyla olumlu bir deneyim oldu. Balkonlu, banyoda banyo malzemeleri seti …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Matthew Lane",
+        "stay_date": "bir yıl önce",
+        "review_text": "Burada 3 gün kaldım ve Yunanistan'dan eve dönmeden önce bir gün daha kalmak için geri döndüm. Büyük bir grupla birlikteydim ve personel muhteşemdi. Personel manzaralardan bile daha iyiydi ve açıkçası bunun nasıl olduğunu bilmiyorum! Unutulmaz bir manzara için çatıya çıkın.  Ve tekrar tekrar gelme isteği uyandıracak içecekler.",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Trip.com Member",
+        "stay_date": "Trip.com\n, 10 ay önce",
+        "review_text": "Bu otelin odaları fiyata göre güzel ve yatak ve yastıklar rahattı. Otel, Akropolis, Plaka ve Monastiraki bölgeleri gibi turistik mekanların yakınındadır ve buna rağmen odamız oldukça sessizdi. Odada büyük bir TV, küçük bir dolap, çalışma …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Nadine Delge",
+        "stay_date": "4 ay önce",
+        "review_text": "++Harika konum\n++İnanılmaz görünüm\n++son derece özenli ve özenli personel …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Barbara M",
+        "stay_date": "Tripadvisor\n, 7 ay önce",
+        "review_text": "İyi otel. Tüm turistik yerler yürüme mesafesindedir. İyi kahvaltı, düzenli olarak yenilenir. Güzel ve yardımsever bir resepsiyonist. Harika bir çatı barı|Odalar küçük ama idare eder. Duş mükemmeldi. İyi fiyat-kalite oranı.",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Francisco Arcega",
+        "stay_date": "3 ay önce",
+        "review_text": "Atina'da iyi bir konuma sahip merkezi otel. Akropolis yakınında. Biraz yüksek fiyat",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "rossignol b",
+        "stay_date": "Tripadvisor\n, bir yıl önce",
+        "review_text": "Plakaya göre çok iyi bir konumda, sakin bir sokakta Monastiraki meydanına 150 m ve syntagma'ya 500 m uzaklıktayız!!!!!|Çatıda bir bar / restoran size akropolisin nefes kesen manzarasını sunuyor. Akşam görmek için. Odalar iyi ve duş süper …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Kelly Culbertson",
+        "stay_date": "bir yıl önce",
+        "review_text": "Hotel Plaka'daki konaklamamızı çok sevdik! Odalar biraz daha küçük ama dışarı çıkıp Atina'yı keşfetmek için sabırsızlandığımızdan bu bizim için pek önemli değildi. Birçok restorana/bara ve Akropolis'e yürüme mesafesindesiniz. Ayrıca otelde …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "“Nesrin” Nitsa Tuchman",
+        "stay_date": "3 hafta önce",
+        "review_text": "Her açıdan harika bir otel, çok teşekkür ederim.",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Mayte Gómez",
+        "stay_date": "2 ay önce",
+        "review_text": "Çalışanlarının nezaketi ve profesyonelliği, temizliği, kahvaltısı, odaları, temizliği, konumu ön plana çıkan bir otel.  Aynı otele döneceğime eminim",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Ranganathan",
+        "stay_date": "Priceline\n, 11 ay önce",
+        "review_text": "Olumlu: PLAKA Hotel Atina'da 9 Gün 25 Ocak - 02 Şubat tarihleri arasında Plaka Hotel Atina Yunanistan'da kaldı. Bu 2024'ün 25 Ocak - 02 Şubat kış aylarında en tatmin edici ve keyifli. Çok keyifli ve tatmin edici. Başlangıçta teşekkür etmek ve teşekkür et …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Ade Lin",
+        "stay_date": "8 ay önce",
+        "review_text": "Plaka Otel'de harika 6 gece konaklama. Konumu muhteşem, Akropolis manzarasının keyfini çıkarabileceğimiz ve dinlenebileceğimiz çatı katını çok sevdik. Kesinlikle arkadaşlarıma tavsiye ederim.",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "An M",
+        "stay_date": "bir yıl önce",
+        "review_text": "Yakın zamanda Yunanistan'ın Atina kentindeki Hotel Plaka'da harika bir konaklama geçirdim ve deneyimimden ne kadar memnun olduğumu anlatamam! Geldiğim andan itibaren personelin sıcak misafirperverliği ve gerçek gülümsemeleriyle karşılandım …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Sartaj Singh",
+        "stay_date": "bir yıl önce",
+        "review_text": "Vay. Hiç bu kadar muhteşem bir üç yıldızda kalmamıştım. Fiyatına değer.\n\nÇatı barındaki Dimitris sanat yapmak için doğmuştu; kokteylleri o kadar iyiydi …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Raimond Griess",
+        "stay_date": "10 ay önce",
+        "review_text": "Güzel otel, güzel dost canlısı insanlar.\nRooftop Bar'dan güzel manzara.\nMükemmel odalar, süper iyi bir kahvaltı ve mükemmel fiyat-kalite oranı. …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Alessandro A",
+        "stay_date": "Tripadvisor\n, 2 yıl önce",
+        "review_text": "Otel, Monastiraki Meydanı ve Syntagma Meydanı'nın yakınında yer almaktadır ve dolayısıyla tüm Atina metro hatlarına yakındır. Bölge her zevke uygun kulüpler, barlar ve restoranlarla doludur. Kentin ana alışveriş caddeleri yapıyı çevreliyor. …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Stefan Hets",
+        "stay_date": "10 ay önce",
+        "review_text": "Çok düzenli odalar ve çok özenli hizmet ile harika merkezi konum. Kahvaltı oldukça iyi. Akropolis'in muhteşem manzarasına sahip muhteşem çatı terası (geceleri çok romantik)!",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Bernard N",
+        "stay_date": "Tripadvisor\n, bir yıl önce",
+        "review_text": "Mükemmel konum. Mükemmel bir karşılama ve ayrıca Fransızca. Teşekkür ederim.. Temiz, konforlu ve son derece bakımlı oda.  Doyurucu, lezzetli kontinental kahvaltı.  Dikkatli ve özenli personel.  Diğerlerinin yanı sıra Akropolis ve …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "David Verbeken",
+        "stay_date": "7 ay önce",
+        "review_text": "Şehir gezisi için ayrılmadan 1 hafta önce 6 ay önceden oda rezervasyonu yaptırdılar, birlikte çalıştıkları başka bir otele çifte rezervasyon yaptıkları için artık oda hatası yaşamıyorlar, burası düzgün bir manzaraya sahip olmayan yarım yamalak bir mahallede yer alıyor",
+        "rating": 2.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Susan Baroutha",
+        "stay_date": "10 ay önce",
+        "review_text": "Bu otelle ilgili tek iyi şey çatı katıdır. İşte bu!!\n3 kişilik odamız SON DERECE küçüktü, pencerenin duvarı vardı, (fotoğrafa bakın) manzara yoktu, birimiz çok ince şilteli katlanır yatakta uyumak zorunda kaldık …",
+        "rating": 4.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Trip.com Member",
+        "stay_date": "Trip.com\n, bir yıl önce",
+        "review_text": "Yakın zamanda bu otelde kaldım ve mükemmel konumu ve genel hizmetinden etkilendim. Ancak önemli bir dezavantaja dikkat çekmeliyim: Odalardaki ses yalıtımı son derece zayıf. Duş, horlama ve tuvalet sesleri de dahil olmak üzere komşu …",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Juan Ignacio Lozano",
+        "stay_date": "9 ay önce",
+        "review_text": "Deneyimim hiç iyi olmadı.    Zar zor sığabildiğimiz bir odada rahatsız olduk.   Bireysel kullanım için bile çok küçüktür. Yatak duvara yaslanmıştı ve odanın genişliği iki buçuk metreyi bile bulmuyordu.\nYarım metreyi geçmeyen dolaptan da bahsetmeyelim.",
+        "rating": 2.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "ed mishleau",
+        "stay_date": "3 ay önce",
+        "review_text": "konumu harika, kahvaltı yetersizdi, ne yazık ki yan odadaki aktiviteleri duymak nispeten kolay",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Trip.com Member",
+        "stay_date": "Trip.com\n, 2 yıl önce",
+        "review_text": "Otel, tüm mağaza ve restoranların bulunduğu Plaka bölgesinin tam kalbinde mükemmel bir konuma sahiptir. Ayrıca Akropolis ve diğer önemli yerler yürüme mesafesindedir.  Kahvaltı mükemmeldi. Akropol manzarasının aydınlatıldığı çatı barı muhteşem bir deneyim. Personel çok dost canlısı ve becerikli. Odalar konforludur.",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "SUNNY",
+        "stay_date": "5 ay önce",
+        "review_text": "Doğrudan Akropolis manzaralı odaları, çatı barı ve her yere yürüyerek ulaşabileceğiniz konumuyla harika bir otel.",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "_______",
+        "stay_date": "10 ay önce",
+        "review_text": "Bar personeli berbat, yani KORKUNÇ ve tembel. Bütün geceyi birlikte kanepede oturarak geçirdiler, çalışmak ve sipariş almak zorunda olmaktan rahatsız oldular. Bitirdiğim anda, restoranın kapanma saatinden çok önce olmasına rağmen beni …",
+        "rating": 4.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "James samuel Kho",
+        "stay_date": "7 ay önce",
+        "review_text": "Otel, Atina'daki tüm turistik mekanlara elverişli bir konumdaydı. Akropolisin büyüleyici manzarasına sahip çatı barını kesinlikle tavsiye ederim.",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "henry tam",
+        "stay_date": "2 yıl önce",
+        "review_text": "4 yıldızlı hizmet ve 5 yıldız değerlerine sahip 3 yıldızlı otel. Akropolis manzaralı bu otelde 4 gece kaldık. Akropolis'in bütün gece ışıklar altında kaldığını görmek kesinlikle ekstra ücrete değdi. Oda genişti ve konumu Plaka bölgesinin …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Ben Brady",
+        "stay_date": "bir yıl önce",
+        "review_text": "Seyahat acentem tarafından Hotel Plaka'yı tavsiye ettim ve beklentilerimi tamamen karşıladı. Çatı katındaki barın manzarası, Akropolis'in ve diğer çevrenin inanılmaz manzarasını sunmaktadır. Personel çok cana yakındı ve Atina'da kaldığımız …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Chiara D.",
+        "stay_date": "2 yıl önce",
+        "review_text": "Otel odası çok geniştir ancak geceleri biraz karanlıktır. Banyo biraz küçük ve eski ama rahat. Odanın tek kusuru, gece boyunca devam eden dış gürültüdür. Servis mükemmel: resepsiyon görevlileri çok nazik ve her türlü bilgi için hazırlar. …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Lee Hyeon Goo",
+        "stay_date": "bir yıl önce",
+        "review_text": "Eski hissi veren olanaklara sahip zarif bir otel. Odalar rahat ve personel dost canlısı. Atina'nın turistik mekanlarının merkezinde yer alır ve iyi erişilebilirliğe sahiptir. Çatıya çıktığınızda çatı barı var ve Akropolis'i bir bakışta görebilirsiniz. Çatı katındaki barın fiyatları da makul.",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "N. Henaff",
+        "stay_date": "11 ay önce",
+        "review_text": "Konforlu otel, geniş oda, mükemmel kahvaltı büfesi, akşamları içki ve atıştırmalıkların tadını çıkarabileceğiniz terastan muhteşem manzara (18:00'den 19:00'a kadar indirimli içki saati) ve mükemmel konum. Paranın mükemmel karşılığı ve güler yüzlü hizmet.",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Gregg Heldon",
+        "stay_date": "bir yıl önce",
+        "review_text": "Oda küçük ama duşta harika su basıncı vardı. Personel dost canlısı ve bilgili. Yeterince yardımcı olamadım. Otel, Atina'nın turistik mekanlarının çoğu için mükemmel bir konumdadır.\nÇatı terası da harika.",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Bilal Samad",
+        "stay_date": "2 yıl önce",
+        "review_text": "Harika bir konumda iyi bir otel. Resepsiyon ve lobi küçük ve odalar basit ama temiz ve bakımlı. Gerekli tüm olanaklar mevcuttur ve şikayet edemezsiniz. Kahvaltı taze ve bol ve 3 yıldızlı bir otelden bekleyebileceğiniz şeyler. Konumu tüm …",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Jennifer S.",
+        "stay_date": "bir yıl önce",
+        "review_text": "Atina'nın kalbinde mükemmel bir konuma sahip otel. Çok temiz odalar ve hoş personel. Özellikle Eva'ya her sabah verdiği tavsiyeler ve bu kadar dikkatli davrandığı için teşekkür ederim. Ayrıca Akropolis'in etkileyici manzarasına sahip otel terasını da vurgulayın.",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Taylor Richardson",
+        "stay_date": "3 yıl önce",
+        "review_text": "Balayımız için ABD'den. Odalar gayet iyi. Yataklar rahattır ve duşlarda mükemmel su basıncı vardır. Bu otel tamamen konum ve manzara ile ilgilidir. Sadece 15-20 dakikalık bir yürüyüşle Akropolis'e çok yakınsınız. En iyi konfor otelin çatı …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Christelle Frimigacci",
+        "stay_date": "2 yıl önce",
+        "review_text": "Mükemmel otel. Paranın karşılığı. Atina'da mükemmel konum ve akropolis dahil birçok ilgi çekici yere yürüyerek ulaşabilirsiniz. Odamızda akropolis manzarası vardı ve çatı katındaki bar, güzel bir gün batımı için kaçırılmaması gereken bir …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Sue Miles",
+        "stay_date": "bir yıl önce",
+        "review_text": "Harika konumu, dışarı çıkması ve keşfetmesi kolay. Restoranlara ve arkeolojik alanlara yakın.\nGüler yüzlü personel, kapıdan girdiğimiz andan itibaren. …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Danny K",
+        "stay_date": "Tripadvisor\n, bir yıl önce",
+        "review_text": "İyi bir otel, hareketli Plaka bölgesinde mükemmel bir konum. Dünyaca ünlü Akropolis'i 900 metreden daha kısa bir mesafede bulacaksınız. Otelin hemen yakınında çok sayıda mağaza, bar ve restoran bulunmaktadır. Odalar temiz ve yataklar harika …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Claudio Sfravara",
+        "stay_date": "bir yıl önce",
+        "review_text": "Merkezde, havaalanından oldukça uygun bir konumda, Monastiraki durağındaki 3 numaralı metroyla yaklaşık 40 dakikada ulaşılabilir. Otelin fiyatına göre iyi bir değeri var. İyi kahvaltı, muhteşem panoramik teras, nazik personel.",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Ketan Moran",
+        "stay_date": "bir yıl önce",
+        "review_text": "Bu otel şehrin kalbinde yer almaktadır.  Yakınlarda çok sayıda mağaza ve restoranın bulunduğu turistik bölge.  Çatı katında muhteşem akropolis manzarasına sahip bir restoran bulunmaktadır.  Yemekler iyi ve fiyatlar makul.  Tek eksisi odanın büyüklüğü ama tüm ihtiyaçlara sahip.",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Paltoglu Makis",
+        "stay_date": "4 ay önce",
+        "review_text": "Evet. Bahçe terasını öneriyoruz. Akropolis, Plaka ve Atina'nın panoramik manzarası",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Patrick S",
+        "stay_date": "Tripadvisor\n, bir yıl önce",
+        "review_text": "Fiyat-kalite oranı çok iyi! Rahat bir oteldir. Kahvaltıda yeterli seçenek. Oda ve özellikle banyo biraz küçük ama rahat! Merkezi bir konumda olduğundan tüm mekanlara kolayca yürüyebilirsiniz. Bar elbette Akropolis'in güzel manzarasına sahiptir!",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Simone C",
+        "stay_date": "Tripadvisor\n, bir yıl önce",
+        "review_text": "Fiyatına göre mükemmel değere sahip üç yıldızlı otel. Mükemmel konum, restoranın bulunduğu terastan tüm akropolü görebilirsiniz. Bir kısmı bazı odalardan da görülebilmektedir. Çok güzel odalar, gerçekten tatmin edici bir kahvaltı, ücretsiz wi-fi ve harika personel.",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Gerald Tessier",
+        "stay_date": "2 yıl önce",
+        "review_text": "Nisan 2022'nin ortalarında bu otelde 3 gece kaldı. Otel, antik yerleri ziyaret etmek, alışveriş yapmak, yemek ve içmek için ideal bir konuma sahipti. Oda geniş ve konforluydu. Çatı katındaki bar iyiydi ama ucuz değil. …",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Trip.com Member",
+        "stay_date": "Trip.com\n, 11 ay önce",
+        "review_text": "Konumu çok iyi. En büyük avantajı çatıdan Akropolis manzarası. Oda ve banyonun küçük olması, yeterli havlu, terlik ve servis suyunun olmaması ne yazık ki.",
+        "rating": 8.2,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Haris Aslanidis",
+        "stay_date": "bir yıl önce",
+        "review_text": "Barda nefes kesen manzaranın keyfini çıkarırken Atina'nın gurme lezzetlerinin ve tatlılarının keyfini çıkarın. Yetenekli barmen sadece en taze malzemeleri kullanarak lezzetli kreasyonlar yaratıyor. El yapımı yiyeceklere odaklanan bu tesis, …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Laurence Hinchliffe",
+        "stay_date": "2 yıl önce",
+        "review_text": "Burada Kasım ayı başlarında 2 çiftle birlikte kaldık, toplamda 4 gece, odalar temiz, konforlu ve kısa bir konaklama için iyi donanımlıydı, banyomuz biraz küçüktü ama birlikte olduğumuz diğer konukların odaları daha büyüktü. …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Michael F",
+        "stay_date": "Tripadvisor\n, 2 yıl önce",
+        "review_text": "Bir iş gezisinin parçası olarak orada bir gece geçirdik. Odalar mükemmeldi. Kahvaltıda çırpılmış yumurtadan müsliye kadar her şey vardı. Personel çok dost canlısıydı. Çatı terasından manzara kesinlikle büyüleyici. Özellikle Akropolis. Otel sayısız pub ve restoranla çevrilidir.",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Richard Scott",
+        "stay_date": "2 yıl önce",
+        "review_text": "Personel mükemmeldi.  Çok fazla sorun yok.  Konumu mükemmel. İstasyondan 5 dakika yürüme mesafesinde.  Çatı bahçesi Atina'nın en güzel manzarasıdır.  Odalar daha iyi düzenlenebilir. Odaların bakımı ve temizliği daha iyi olabilirdi. Restoranda kahvaltı mükemmel ve hatalı olamaz. Genel olarak çok iyi.",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Trip.com Member",
+        "stay_date": "Trip.com\n, 2 yıl önce",
+        "review_text": "Plaka oteldeki kalışımızla ilgili her şey harikaydı.  Check-in işlemine kadar çantalarımızı saklamamıza izin verdiler. Nereye gideceğimiz ve oraya nasıl gideceğimiz konusunda bize harika bilgiler verdi.  Kahvaltı harikaydı - birçok seçenek. …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "MAR EGUILIOR",
+        "stay_date": "9 ay önce",
+        "review_text": "Çok rahatsız olduk, normal bir oda parası ödedik ve bize çok küçük bir oda verdiler, 10 m² bile değil. Dolap çok saçmaydı. Terasın manzarası bizi kurtardı.",
+        "rating": 2.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Michelle Ahlquist",
+        "stay_date": "bir yıl önce",
+        "review_text": "Konumu mükemmel.  Odalar alıştığım Avrupa standardına uygun değil.  Çarşaflar ve yorganlar daha düşük kalitededir.  Çoğu Yunan gibi, personel de nazik ve çok yardımsever",
+        "rating": 6.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Annelie Blom",
+        "stay_date": "10 ay önce",
+        "review_text": "Harika konumu, tüm turistik mekanlara ve toplu taşıma araçlarına çok merkezi. Çatı katındaki bar muhteşem. Personel çok yardımsever. Kesinlikle kalacak yer!",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Ben McCoy",
+        "stay_date": "2 yıl önce",
+        "review_text": "Muhteşem bir konumda harika bir otel. Eğer odadan şikayetçiyseniz seyahatinizi yanlış yapıyorsunuz demektir.  Uyu ve duş al, ardından çevreye çarp.  Akropolis'in muhteşem manzarası.  Belki otele 10 dakikalık yürüme mesafesindedir.  Burada kalın ve ortamın tadını çıkarın!",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Lulu Choupa",
+        "stay_date": "bir yıl önce",
+        "review_text": "Ekim 2023'te kalın.\nMükemmel konum!\nGençlerle bağlantılı odalar: 4 kişi için oldukça kayda değer (banyo x2). …",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Benjamin Treloar",
+        "stay_date": "bir yıl önce",
+        "review_text": "Atina'da oldukça merkezi bir konumda. Pek çok alışveriş bölgesinin ve görülecek turistik yerlerin hemen yanında! Otelin kendisi geniş bir çatı manzarasına ve her türlü sorunda yardımcı olmaktan mutluluk duyacak personele sahiptir. Tek …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Agustin Carretero",
+        "stay_date": "bir yıl önce",
+        "review_text": "Bu otel şehir merkezinde çok iyi bir konuma sahiptir.\nYataklar oldukça konforlu olsa da, yer çok temiz ve servis çok iyi.\nKahvaltı oldukça yeterliydi, birçok seçenek vardı. …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Trip.com Member",
+        "stay_date": "Trip.com\n, bir yıl önce",
+        "review_text": "Stratejik bir konuma sahip olup Monastiraki metro istasyonuna, Monastiraki Meydanı'na, Syntagma'ya, Menandrou Caddesi'ne (helal restoranlar bulmak için) ve çok daha fazlasına sadece yürüme mesafesindedir. Personel dost canlısı ve …",
+        "rating": 9.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Ray Gramlich",
+        "stay_date": "bir yıl önce",
+        "review_text": "Bu 5 yıldızlı hizmete sahip 3 yıldızlı bir oteldir. Varışta muhteşem çatı bar restoranına gittik ve Anthony Halkla İlişkiler Temsilcisi Eva'nın sunduğu muhteşem partenon ve akropolis manzarası eşliğinde muhteşem yemekler yedik. Eva her …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Emanuel Papadakis",
+        "stay_date": "5 ay önce",
+        "review_text": "Plaka / Monastiraki bölgesinde mükemmel bir konumda harika bir butik otel. Personel süper harika ve süper yardımsever",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Len Weich",
+        "stay_date": "2 yıl önce",
+        "review_text": "Atina'nın muhtemelen en işlek kısmının ortasında harika bir otel.\nPersonel ortalamanın üzerinde güleryüzlü ve yardımseverdi. Ayrıca burada kalışımız için çok iyi ipuçları aldık. …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Daniele G",
+        "stay_date": "Tripadvisor\n, 2 yıl önce",
+        "review_text": "Plaka oteli ayrıcalıklı bir konuma sahiptir. Yakınlardaki tüm turistik mekanlara sahiptir ve metroya erişilebilir. Kahvaltı mükemmel ve yine de hepsi son derece yardımsever ve güler yüzlü olan personelin nezaketinden bahsetmemiz gerekiyor. …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Barbara",
+        "stay_date": "11 ay önce",
+        "review_text": "Çok iyi bir otel. Konumu ve personeli vurguluyorum: Her sabah kahvaltıda bir bayan, şehirde geçirilen zamana bağlı olarak mükemmel İspanyolca ile turlar önermek için geldi.",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "G",
+        "stay_date": "2 yıl önce",
+        "review_text": "Her şey mükemmeldi. Otelden 36 dakika uzaklıkta bulunmaktadır (Taksi yolculuğu 40-46 Euro arasında değişmektedir, nakit paranız olduğundan emin olun, dolar kabul etmezler). Otel personeli son derece kibar ve nazikti. Otel şehir içinde …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Christof F",
+        "stay_date": "Tripadvisor\n, 3 yıl önce",
+        "review_text": "Plaka, Akropolis, Agora ve Syntagma Meydanı yürüme mesafesindedir. ||||Oda biraz küçüktü ama iki büyük valizle sorun yaşamadık, boyutu üç gün için yeterliydi.||||Buzdolabı vardı, bazı Alman kanallarını gösteren TV vardı.||||O Banyo …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "GRIMAUD marie_Claude",
+        "stay_date": "bir yıl önce",
+        "review_text": "Ben tavsiye ediyorum. Her şeyin merkezinde bulunan otel ideal bir konuma sahiptir. Dar sokakları ve merdivenlerde gerçekten tipik restoran ve barların bulunduğu Anafiotika bölgesine ve Plaka'nın merkezine 2 dakika. Karşılama gülümsüyor ve …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Aline abu sinni",
+        "stay_date": "2 yıl önce",
+        "review_text": "Harika konaklama, personel harika, kahvaltı güne başlamanıza yetecek kadar iyiydi.\nÇatı katındaki bar, akropolisin muhteşem manzarasına sahiptir…\nTek eksiği odada iyi bir ayna olmamasıydı.",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Elen Franz",
+        "stay_date": "2 yıl önce",
+        "review_text": "Çok güzel ve temiz odalar. Özellikle çatı katındaki bardan ve görkemli Akropolis'in beklenmedik manzarasından etkilendim. Tek kelimeyle muhteşem! Özenli güler yüzlü personel ve hoş bir servis. Menü küçük ama her şey çok lezzetli👍😊. …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Mark Randell",
+        "stay_date": "2 yıl önce",
+        "review_text": "Fena değil. Kesinlikle bölgede kaldığım diğerleri kadar iyi değil. Özellikle oturulacak rahat bir yer yok. Odalar küçük, kettle vs yok.\nResepsiyon tam da bu. Üst kattaki alan Akropolis'e bakmaktadır ancak burayı …",
+        "rating": 4.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Astrid Souchon",
+        "stay_date": "bir yıl önce",
+        "review_text": "Mükemmel hizmet, mükemmel konum, çok konforlu ve ferah balkonlu odalar (odaya su ısıtıcısı/çay veya kahve servisi daha da iyi olurdu), çatı katından ve bardan olağanüstü manzaralar, güzel bir kahvaltı büfesi... Ama çoğu hepsi... Baştan sona …",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Edmond Siu",
+        "stay_date": "10 ay önce",
+        "review_text": "Otel ödediğimiz ücrete göre gayet iyi, gecelik 50 £. Oda geceleri dışarıdaki yollardan, kilise çanlarından ve evden sabah saat 8'de herkesin kapısını çalmaya devam ettiğinden oldukça gürültülü.",
+        "rating": 6.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "George Georgandas",
+        "stay_date": "bir yıl önce",
+        "review_text": "Atina'nın tüm merkezi konumlarına kolay erişim için Plaka bölgesinde çok iyi konumlanmış otel. Akropolis, Antik Agora ve Monastiraki bit pazarı yakınlardadır. Meçhul askerin mezarı ve ikonik nöbet değişimi kısa bir yürüyüş mesafesindedir. …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Angela Morris",
+        "stay_date": "bir yıl önce",
+        "review_text": "Çok temiz odalar, çeşnilerle hoş bir duş. Çoğunlukla Yunan ve Alman televizyon kanalları ama televizyon izlemek için buradalar. Yürüme mesafesinde tüm ana siteler için mükemmel konum. Güzel bir yer, sevimli personel.\nTge Pathenon'un muhteşem manzarasına sahip harika bir çatı barı/restoran 🙂 …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "J R",
+        "stay_date": "2 yıl önce",
+        "review_text": "Otele kusur bulamam. Kahvaltı çok lezzetliydi. Odalar konforluydu.  Konumu harika ve gezi için mükemmel. Çantam çalındığında ve birisi bulduğunu iddia ettiğinde personel bana yardım etmenin ötesine geçti. Tüm kartlarımla birlikte çantamı geri al.",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Emily .p",
+        "stay_date": "bir yıl önce",
+        "review_text": "Konumu çok iyi havaalanından geliyor.\nOtobüs durağına yakın ve şehrin ortasında olduğundan yakınlarda çok sayıda restoran ve alışveriş yeri bulunmaktadır. Tarihi mekanlara yakın ve en önemlisi personel çok cana yakın! Kahvaltı da iyiydi. Çatı katındaki barı da mutlaka ziyaret edin.",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Jason Gomez",
+        "stay_date": "bir yıl önce",
+        "review_text": "Atina'yı keşfetmek için harika bir otel.  Küçük odalar ama çok temiz ve rahat.  Atina'nın merkezini keşfetmek için mükemmel bir yer. Harika çatı katı restoranı",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Nicholas Browne",
+        "stay_date": "3 yıl önce",
+        "review_text": "Burada 4 gece kaldık, plaka bölgesini ve genel olarak Atina'yı keşfetmek için harika bir konum. Kahvaltı her sabah gerçekten çok iyi, çok çeşitli seçenekler var, odalar temiz ve iyi oranlarda. Personel çok dost canlısı ve yardımsever. Her …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Linda Bilato",
+        "stay_date": "bir yıl önce",
+        "review_text": "Otel Monastiraki Meydanı ve Syntagma Meydanı yakınında yer almaktadır. Yakınlarda her zevke uygun kulüpler, barlar ve restoranlar bulunmaktadır. Atina'yı ziyaret etmek ve deneyimlemek için çok uygun bir konum. …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Pancho Alberich",
+        "stay_date": "2 yıl önce",
+        "review_text": "Çince'den sonra en fazla milyon kişinin konuştuğu ana dil olan İspanyolca dışında tüm dillerde planları ve broşürleri bulunmaktadır. Banyoda yan odadakileri sanki sizinle banyo yapıyormuş gibi duyabiliyorsunuz. Balkonumuzda iki adet …",
+        "rating": 4.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Bryan Claridge",
+        "stay_date": "bir yıl önce",
+        "review_text": "Harika merkezi konum. Personel son derece faydalıdır. Bardan Akropolis'e kesintisiz çatı manzarası. Cömert bir kahvaltı.",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Luke McFadden",
+        "stay_date": "7 yıl önce",
+        "review_text": "Mükemmel servis ve mükemmel konum! Odalar basit, ancak 3 yıldız için beklediğiniz şey. Açık büfe kahvaltı çok çeşitli ve lezzetli. Ücretsiz çay ve kahve her zaman barda mevcuttur (odanızda değil). …",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Bennett Lewis",
+        "stay_date": "3 yıl önce",
+        "review_text": "Değere ve manzaraya hayran kaldık.  Ekonomik oda bile harika manzaralı rahattı.  5-15 dakika içinde görülecek, yapılacak ve yemek yiyebileceğiniz çok şey var. yürümek.  Çatı katındaki bar, yoğun şehrin güzel bir molasıydı.",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Luminaria Sanctuary",
+        "stay_date": "3 yıl önce",
+        "review_text": "Bar incelemesi: Güzel ve gerçekten küçümsenen çatı barından Parthenon'un en iyi manzarası. Harika hizmet. Kalabalık değil. Rahat oturma. Harika müzik ve ortam. Bir arkadaş tarafından önerildi ve hayal kırıklığına uğratmadı!",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Renzo Vanhoorelbeke",
+        "stay_date": "bir yıl önce",
+        "review_text": "Pek çok turistik mekana yakın mükemmel konum, ancak aynı zamanda akşamları çok fazla gürültü olması bir dezavantajdır.\nGörülecek yerler hakkındaki sorularınızda size yardımcı olabilecek yardımsever …",
+        "rating": 6.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Karl Jablonski",
+        "stay_date": "bir yıl önce",
+        "review_text": "Konumu mükemmeldi, ancak odalar oldukça küçüktü ve manzaramız yoktu. Servis iyiydi. Bir otel için iyi bir seçenek ama burada en büyük kazanan konum!",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "AS Bridges",
+        "stay_date": "5 yıl önce",
+        "review_text": "Eşim ve ben burada Avustralya'dan ilk kez ziyaret ederek 7 gece geçirdik. İlk başta akşam yemeğinin olmaması endişe vericiydi. Ama sonra otelin harika kafeler ve muhteşem alışveriş mekanlarıyla çevrili olduğunu keşfettik. Otel personeli çok …",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Mimin Yulita",
+        "stay_date": "5 yıl önce",
+        "review_text": "Atina'ya yolunuz düşerse lütfen en azından bir gün burada kalmaya çalışın. Her şey olağanüstü. Çok nazik ve titiz bir resepsiyonist, temiz ve konforlu oda, Akropolis'in doğrudan yakından manzarasını sunan 7/24 erişilebilir çatı katı, çok …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Nicholas Fahrney",
+        "stay_date": "3 yıl önce",
+        "review_text": "Odalar antika ve servis mükemmel.  Her geceyi çatı katında otelden Akropolis manzarasının tadını çıkararak geçirdik.  Konaklama, fiyat, temizlik ve konumu rakipsiz olduğundan oteli şiddetle tavsiye ederim.",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Luka Hordijk",
+        "stay_date": "3 yıl önce",
+        "review_text": "Çok güzel bir otel. Mükemmel konum. Her türlü turistik mağazanın bulunduğu bir alışveriş caddesine yakın. Ayrıca büyük bir alışveriş bölgesine de yakındır. Ve restoranların yakınında. Ayrıca bir metro istasyonuna oldukça yakın. …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Hong Qixian",
+        "stay_date": "2 yıl önce",
+        "review_text": "Hotel Plaka, Plaka'da iyi bir konuma sahiptir ve birçok yerel turistik mekana yakındır. Oda biraz küçüktü ama tertemizdi. Kahvaltı çeşitleri mükemmeldi. Çatı katındaki bardan manzara harikaydı. Personel güler yüzlü ve misafirperverdir. Fiyat için fantastik değer. Tavsiye ederim!",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Warauch d",
+        "stay_date": "Tripadvisor\n, 5 yıl önce",
+        "review_text": "Konumu ziyaret için idealdir, tüm önemli turistik mekanlar yürüme mesafesindedir. |Çatı terası muhteşem Akropolis manzarasına sahiptir ancak ne yazık ki biraz rüzgarlıdır. |Odalar basit ama temiz. |Kahvaltı çeşitlidir ve tüm dileklerimizi yerine getirir.",
+        "rating": 6.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Luca Fiorentino",
+        "stay_date": "2 yıl önce",
+        "review_text": "Odanın manzarası çok güzel. Beni biraz rahatsız eden şey, akşam odaya vardığımızda bir şişe su istememizdi. Ne yazık ki otelin suyu \"tükenmişti\"... Bize otelin dışındaki bir büfeye bakmamız söylendi. Ayrıca odada su şişesi yoktu. Belki …",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Gabriele Spannaus-Kuhn",
+        "stay_date": "6 yıl önce",
+        "review_text": "Haziran 2018'in başında buradaydık ve 6. katta doğrudan çatı terasının altında bir odamız vardı. Oda yeterince büyük. Oda servisi çok güzel ve uzlaşmacıydı. …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Andrea Delbrueck",
+        "stay_date": "2 yıl önce",
+        "review_text": "Her şey mükemmeldi: odadan ve harika çatı barından Akropolis manzarası. Klima mükemmel, oda beklenenden daha büyük. Mahalledeki güzel restoranlar. Köşede birçok turistik yer var. Yakındaki metroyla Pire'ye ve havaalanına doğrudan ulaşılabilir. Ne zaman istersen!",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "박용해",
+        "stay_date": "bir yıl önce",
+        "review_text": "Pencereden Akropolis'in gece manzarası çok güzel.\nŞehir merkezinde yer aldığından çok sayıda restoran ve kolaylık olanağı bulunmaktadır ve aynı binanın birinci katında bir süpermarket bulunmaktadır.",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Doris Dörsch-Werner",
+        "stay_date": "5 yıl önce",
+        "review_text": "Merkezi konumdaki şehir oteli (artık en yenisi değil)\nTüm turistik yerler, sayısız restoran ve alışveriş olanakları yürüme mesafesindedir …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "hannes k",
+        "stay_date": "Tripadvisor\n, 5 yıl önce",
+        "review_text": "Plaka Hotel'in en üst katında Akropolis'in en güzel manzarasına sahip olacaksınız ve harika çatı barında harika içeceklerin tadını çıkarabilirsiniz! Manzara gerçekten etkileyici; Akropolis elinizin altında. İpucu: Sabah saat 6:00'da askerlerin Akropolü'ne marş söylenen bir bayrak kaldırılır - tüylerim diken diken olur",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Sinan G",
+        "stay_date": "7 yıl önce",
+        "review_text": "Balkonlu ve şehir manzaralı bir oda için para ödedik. Elimizde, oda penceresinin dışında, iki AC pompasının tam hızda çalıştığı ve oda zeminini salladığı küçük bir alan vardı! …",
+        "rating": 2.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Russell Maltempo",
+        "stay_date": "8 yıl önce",
+        "review_text": "Akropolis'in hemen kuzeyinde, popüler Monastiraki bölgesinde yer alan bu tesis, sabah 3'ten 10'a kadar kontinental kahvaltı ve 7'den 10'a kadar sıcak kahvaltı sunuyordu. Yalnızca iki kişinin sığabileceği birden fazla asansöre sahip olsalardı beş yıldız alacaklardı ama onun dışında harikaydı.",
+        "rating": 8.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Piotr Gołębiowski",
+        "stay_date": "8 yıl önce",
+        "review_text": "Harika konumu, güler yüzlü hizmet ve lezzetli, doyurucu kahvaltılar. Çatı terası aslında Akropolis'in harika manzarasını sunmaktadır. Akşamları burada oturup bir şeyler içebilir (fiyatlar uygun) ve manzaranın güzelliğine hayran …",
+        "rating": 10.0,
+        "source": "Google Maps"
+    },
+    {
+        "customer_name": "Ali",
+        "stay_date": "Kasım 2024",
+        "review_text": "Positive: Konumu şehrin tam kalbinde \nPersonel inanılmaz nitelikli \nKahvaltısı gerçekten çeşitli \nTerasının manzarası eşsiz\nNegative: Konumu şehrin tam kalbinde \nPersonel inanılmaz nitelikli \nKahvaltısı gerçekten çeşitli \nTerasının manzarası eşsiz",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Efruz",
+        "stay_date": "Ocak 2025",
+        "review_text": "Positive: Konumu çok iyiydi,her yere yürüme mesafesinde, temizliği harikaydı.\nNegative: Konumu çok iyiydi,her yere yürüme mesafesinde, temizliği harikaydı.",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Ahmet",
+        "stay_date": "Ocak 2025",
+        "review_text": "Positive: Konum\nNegative: Konum",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Nurdan",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Otelin merkezi konumu bütün turistik noktalara yürüme mesafesinde olması en büyük avantajı\nOdamız da temiz ve kahvaltı da gayet yeterliydi \nAtina da daha önceki konaklamalarımı farklı bölgelerde yapmıştım ama beni en mutlu eden bu otel oldu\nNegative: Otelin merkezi konumu bütün turistik noktalara yürüme mesafesinde olması en büyük avantajı\nOdamız da temiz ve kahvaltı da gayet yeterliydi \nAtina da daha önceki konaklamalarımı farklı bölgelerde yapmıştım ama beni en mutlu eden bu otel oldu",
+        "rating": 9.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Neslihan",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Çok merkezi bir konumda ve gezilecek turistik yerlere yürüme mesafesinde olması çok iyiydi. Kahvaltısı da gayet yeterliydi. Personel çok güleryüzlü ve yardımseverdi. Aile olarak tavsiye edebileceğimiz bir otel oldu bizim için.\nNegative: Çok merkezi bir konumda ve gezilecek turistik yerlere yürüme mesafesinde olması çok iyiydi. Kahvaltısı da gayet yeterliydi. Personel çok güleryüzlü ve yardımseverdi. Aile olarak tavsiye edebileceğimiz bir otel oldu bizim için.",
+        "rating": 9.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Adnan",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Konum mükemmel bütün turistik mekanlara ve popüler mekanlara yürüme mesafesindeydi. Temiz ve yeterli bir kahvaltı sundular. Çalışanlar çok ilgiliydi.\nNegative: Konum mükemmel bütün turistik mekanlara ve popüler mekanlara yürüme mesafesindeydi. Temiz ve yeterli bir kahvaltı sundular. Çalışanlar çok ilgiliydi.",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Cihat",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Öncelikle konumu harika!\nÇalışanlar işini çok iyi yapıyor.\nKahvaltı ve temizlik çok yeterli.\nNegative: Öncelikle konumu harika!\nÇalışanlar işini çok iyi yapıyor.\nKahvaltı ve temizlik çok yeterli.",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Lütfiye",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Oda manzarası müthişti yatak rahattı. Odada çay kahve keetle vardı.kahvalti iyiydi. Tüm çalışanlar yardımsever ve guleryuzluydu bir daha gidilince kalınır.\nNegative: Oda manzarası müthişti yatak rahattı. Odada çay kahve keetle vardı.kahvalti iyiydi. Tüm çalışanlar yardımsever ve guleryuzluydu bir daha gidilince kalınır.",
+        "rating": 9.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Koşak",
+        "stay_date": "Kasım 2024",
+        "review_text": "Positive: Kahvaltısı çok çeşitliydi. Konumu turistik noktalara yürüme mesafesinde. Otelin çevresinde gece rahatça gezilebilir. Güvenilir bir konumda. Teras manzarası muhteşem. Terlik ve ütü istediğimizde hemen yardımcı oldular.\nNegative: Kahvaltısı çok çeşitliydi. Konumu turistik noktalara yürüme mesafesinde. Otelin çevresinde gece rahatça gezilebilir. Güvenilir bir konumda. Teras manzarası muhteşem. Terlik ve ütü istediğimizde hemen yardımcı oldular.",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Sezercan",
+        "stay_date": "Kasım 2024",
+        "review_text": "Positive: Her yere çok yakın ve yürüme mesafesinde\nGüzel bir kahvaltısı var\nNegative: Her yere çok yakın ve yürüme mesafesinde\nGüzel bir kahvaltısı var",
+        "rating": 9.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Ali",
+        "stay_date": "Kasım 2024",
+        "review_text": "Positive: Konumu şehrin tam kalbinde \nPersonel inanılmaz nitelikli \nKahvaltısı gerçekten çeşitli \nTerasının manzarası eşsiz\nNegative: Konumu şehrin tam kalbinde \nPersonel inanılmaz nitelikli \nKahvaltısı gerçekten çeşitli \nTerasının manzarası eşsiz",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Efruz",
+        "stay_date": "Ocak 2025",
+        "review_text": "Positive: Konumu çok iyiydi,her yere yürüme mesafesinde, temizliği harikaydı.\nNegative: Konumu çok iyiydi,her yere yürüme mesafesinde, temizliği harikaydı.",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Ahmet",
+        "stay_date": "Ocak 2025",
+        "review_text": "Positive: Konum\nNegative: Konum",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Nurdan",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Otelin merkezi konumu bütün turistik noktalara yürüme mesafesinde olması en büyük avantajı\nOdamız da temiz ve kahvaltı da gayet yeterliydi \nAtina da daha önceki konaklamalarımı farklı bölgelerde yapmıştım ama beni en mutlu eden bu otel oldu\nNegative: Otelin merkezi konumu bütün turistik noktalara yürüme mesafesinde olması en büyük avantajı\nOdamız da temiz ve kahvaltı da gayet yeterliydi \nAtina da daha önceki konaklamalarımı farklı bölgelerde yapmıştım ama beni en mutlu eden bu otel oldu",
+        "rating": 9.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Neslihan",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Çok merkezi bir konumda ve gezilecek turistik yerlere yürüme mesafesinde olması çok iyiydi. Kahvaltısı da gayet yeterliydi. Personel çok güleryüzlü ve yardımseverdi. Aile olarak tavsiye edebileceğimiz bir otel oldu bizim için.\nNegative: Çok merkezi bir konumda ve gezilecek turistik yerlere yürüme mesafesinde olması çok iyiydi. Kahvaltısı da gayet yeterliydi. Personel çok güleryüzlü ve yardımseverdi. Aile olarak tavsiye edebileceğimiz bir otel oldu bizim için.",
+        "rating": 9.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Adnan",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Konum mükemmel bütün turistik mekanlara ve popüler mekanlara yürüme mesafesindeydi. Temiz ve yeterli bir kahvaltı sundular. Çalışanlar çok ilgiliydi.\nNegative: Konum mükemmel bütün turistik mekanlara ve popüler mekanlara yürüme mesafesindeydi. Temiz ve yeterli bir kahvaltı sundular. Çalışanlar çok ilgiliydi.",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Cihat",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Öncelikle konumu harika!\nÇalışanlar işini çok iyi yapıyor.\nKahvaltı ve temizlik çok yeterli.\nNegative: Öncelikle konumu harika!\nÇalışanlar işini çok iyi yapıyor.\nKahvaltı ve temizlik çok yeterli.",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Lütfiye",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Oda manzarası müthişti yatak rahattı. Odada çay kahve keetle vardı.kahvalti iyiydi. Tüm çalışanlar yardımsever ve guleryuzluydu bir daha gidilince kalınır.\nNegative: Oda manzarası müthişti yatak rahattı. Odada çay kahve keetle vardı.kahvalti iyiydi. Tüm çalışanlar yardımsever ve guleryuzluydu bir daha gidilince kalınır.",
+        "rating": 9.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Koşak",
+        "stay_date": "Kasım 2024",
+        "review_text": "Positive: Kahvaltısı çok çeşitliydi. Konumu turistik noktalara yürüme mesafesinde. Otelin çevresinde gece rahatça gezilebilir. Güvenilir bir konumda. Teras manzarası muhteşem. Terlik ve ütü istediğimizde hemen yardımcı oldular.\nNegative: Kahvaltısı çok çeşitliydi. Konumu turistik noktalara yürüme mesafesinde. Otelin çevresinde gece rahatça gezilebilir. Güvenilir bir konumda. Teras manzarası muhteşem. Terlik ve ütü istediğimizde hemen yardımcı oldular.",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Sezercan",
+        "stay_date": "Kasım 2024",
+        "review_text": "Positive: Her yere çok yakın ve yürüme mesafesinde\nGüzel bir kahvaltısı var\nNegative: Her yere çok yakın ve yürüme mesafesinde\nGüzel bir kahvaltısı var",
+        "rating": 9.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Ali",
+        "stay_date": "Kasım 2024",
+        "review_text": "Positive: Konumu şehrin tam kalbinde \nPersonel inanılmaz nitelikli \nKahvaltısı gerçekten çeşitli \nTerasının manzarası eşsiz\nNegative: Konumu şehrin tam kalbinde \nPersonel inanılmaz nitelikli \nKahvaltısı gerçekten çeşitli \nTerasının manzarası eşsiz",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Efruz",
+        "stay_date": "Ocak 2025",
+        "review_text": "Positive: Konumu çok iyiydi,her yere yürüme mesafesinde, temizliği harikaydı.\nNegative: Konumu çok iyiydi,her yere yürüme mesafesinde, temizliği harikaydı.",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Ahmet",
+        "stay_date": "Ocak 2025",
+        "review_text": "Positive: Konum\nNegative: Konum",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Nurdan",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Otelin merkezi konumu bütün turistik noktalara yürüme mesafesinde olması en büyük avantajı\nOdamız da temiz ve kahvaltı da gayet yeterliydi \nAtina da daha önceki konaklamalarımı farklı bölgelerde yapmıştım ama beni en mutlu eden bu otel oldu\nNegative: Otelin merkezi konumu bütün turistik noktalara yürüme mesafesinde olması en büyük avantajı\nOdamız da temiz ve kahvaltı da gayet yeterliydi \nAtina da daha önceki konaklamalarımı farklı bölgelerde yapmıştım ama beni en mutlu eden bu otel oldu",
+        "rating": 9.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Neslihan",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Çok merkezi bir konumda ve gezilecek turistik yerlere yürüme mesafesinde olması çok iyiydi. Kahvaltısı da gayet yeterliydi. Personel çok güleryüzlü ve yardımseverdi. Aile olarak tavsiye edebileceğimiz bir otel oldu bizim için.\nNegative: Çok merkezi bir konumda ve gezilecek turistik yerlere yürüme mesafesinde olması çok iyiydi. Kahvaltısı da gayet yeterliydi. Personel çok güleryüzlü ve yardımseverdi. Aile olarak tavsiye edebileceğimiz bir otel oldu bizim için.",
+        "rating": 9.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Adnan",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Konum mükemmel bütün turistik mekanlara ve popüler mekanlara yürüme mesafesindeydi. Temiz ve yeterli bir kahvaltı sundular. Çalışanlar çok ilgiliydi.\nNegative: Konum mükemmel bütün turistik mekanlara ve popüler mekanlara yürüme mesafesindeydi. Temiz ve yeterli bir kahvaltı sundular. Çalışanlar çok ilgiliydi.",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Cihat",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Öncelikle konumu harika!\nÇalışanlar işini çok iyi yapıyor.\nKahvaltı ve temizlik çok yeterli.\nNegative: Öncelikle konumu harika!\nÇalışanlar işini çok iyi yapıyor.\nKahvaltı ve temizlik çok yeterli.",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Lütfiye",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Oda manzarası müthişti yatak rahattı. Odada çay kahve keetle vardı.kahvalti iyiydi. Tüm çalışanlar yardımsever ve guleryuzluydu bir daha gidilince kalınır.\nNegative: Oda manzarası müthişti yatak rahattı. Odada çay kahve keetle vardı.kahvalti iyiydi. Tüm çalışanlar yardımsever ve guleryuzluydu bir daha gidilince kalınır.",
+        "rating": 9.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Koşak",
+        "stay_date": "Kasım 2024",
+        "review_text": "Positive: Kahvaltısı çok çeşitliydi. Konumu turistik noktalara yürüme mesafesinde. Otelin çevresinde gece rahatça gezilebilir. Güvenilir bir konumda. Teras manzarası muhteşem. Terlik ve ütü istediğimizde hemen yardımcı oldular.\nNegative: Kahvaltısı çok çeşitliydi. Konumu turistik noktalara yürüme mesafesinde. Otelin çevresinde gece rahatça gezilebilir. Güvenilir bir konumda. Teras manzarası muhteşem. Terlik ve ütü istediğimizde hemen yardımcı oldular.",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Sezercan",
+        "stay_date": "Kasım 2024",
+        "review_text": "Positive: Her yere çok yakın ve yürüme mesafesinde\nGüzel bir kahvaltısı var\nNegative: Her yere çok yakın ve yürüme mesafesinde\nGüzel bir kahvaltısı var",
+        "rating": 9.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Ali",
+        "stay_date": "Kasım 2024",
+        "review_text": "Positive: Konumu şehrin tam kalbinde \nPersonel inanılmaz nitelikli \nKahvaltısı gerçekten çeşitli \nTerasının manzarası eşsiz\nNegative: Konumu şehrin tam kalbinde \nPersonel inanılmaz nitelikli \nKahvaltısı gerçekten çeşitli \nTerasının manzarası eşsiz",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Efruz",
+        "stay_date": "Ocak 2025",
+        "review_text": "Positive: Konumu çok iyiydi,her yere yürüme mesafesinde, temizliği harikaydı.\nNegative: Konumu çok iyiydi,her yere yürüme mesafesinde, temizliği harikaydı.",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Ahmet",
+        "stay_date": "Ocak 2025",
+        "review_text": "Positive: Konum\nNegative: Konum",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Nurdan",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Otelin merkezi konumu bütün turistik noktalara yürüme mesafesinde olması en büyük avantajı\nOdamız da temiz ve kahvaltı da gayet yeterliydi \nAtina da daha önceki konaklamalarımı farklı bölgelerde yapmıştım ama beni en mutlu eden bu otel oldu\nNegative: Otelin merkezi konumu bütün turistik noktalara yürüme mesafesinde olması en büyük avantajı\nOdamız da temiz ve kahvaltı da gayet yeterliydi \nAtina da daha önceki konaklamalarımı farklı bölgelerde yapmıştım ama beni en mutlu eden bu otel oldu",
+        "rating": 9.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Neslihan",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Çok merkezi bir konumda ve gezilecek turistik yerlere yürüme mesafesinde olması çok iyiydi. Kahvaltısı da gayet yeterliydi. Personel çok güleryüzlü ve yardımseverdi. Aile olarak tavsiye edebileceğimiz bir otel oldu bizim için.\nNegative: Çok merkezi bir konumda ve gezilecek turistik yerlere yürüme mesafesinde olması çok iyiydi. Kahvaltısı da gayet yeterliydi. Personel çok güleryüzlü ve yardımseverdi. Aile olarak tavsiye edebileceğimiz bir otel oldu bizim için.",
+        "rating": 9.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Adnan",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Konum mükemmel bütün turistik mekanlara ve popüler mekanlara yürüme mesafesindeydi. Temiz ve yeterli bir kahvaltı sundular. Çalışanlar çok ilgiliydi.\nNegative: Konum mükemmel bütün turistik mekanlara ve popüler mekanlara yürüme mesafesindeydi. Temiz ve yeterli bir kahvaltı sundular. Çalışanlar çok ilgiliydi.",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Cihat",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Öncelikle konumu harika!\nÇalışanlar işini çok iyi yapıyor.\nKahvaltı ve temizlik çok yeterli.\nNegative: Öncelikle konumu harika!\nÇalışanlar işini çok iyi yapıyor.\nKahvaltı ve temizlik çok yeterli.",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Lütfiye",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Oda manzarası müthişti yatak rahattı. Odada çay kahve keetle vardı.kahvalti iyiydi. Tüm çalışanlar yardımsever ve guleryuzluydu bir daha gidilince kalınır.\nNegative: Oda manzarası müthişti yatak rahattı. Odada çay kahve keetle vardı.kahvalti iyiydi. Tüm çalışanlar yardımsever ve guleryuzluydu bir daha gidilince kalınır.",
+        "rating": 9.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Koşak",
+        "stay_date": "Kasım 2024",
+        "review_text": "Positive: Kahvaltısı çok çeşitliydi. Konumu turistik noktalara yürüme mesafesinde. Otelin çevresinde gece rahatça gezilebilir. Güvenilir bir konumda. Teras manzarası muhteşem. Terlik ve ütü istediğimizde hemen yardımcı oldular.\nNegative: Kahvaltısı çok çeşitliydi. Konumu turistik noktalara yürüme mesafesinde. Otelin çevresinde gece rahatça gezilebilir. Güvenilir bir konumda. Teras manzarası muhteşem. Terlik ve ütü istediğimizde hemen yardımcı oldular.",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Sezercan",
+        "stay_date": "Kasım 2024",
+        "review_text": "Positive: Her yere çok yakın ve yürüme mesafesinde\nGüzel bir kahvaltısı var\nNegative: Her yere çok yakın ve yürüme mesafesinde\nGüzel bir kahvaltısı var",
+        "rating": 9.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Ali",
+        "stay_date": "Kasım 2024",
+        "review_text": "Positive: Konumu şehrin tam kalbinde \nPersonel inanılmaz nitelikli \nKahvaltısı gerçekten çeşitli \nTerasının manzarası eşsiz\nNegative: Konumu şehrin tam kalbinde \nPersonel inanılmaz nitelikli \nKahvaltısı gerçekten çeşitli \nTerasının manzarası eşsiz",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Efruz",
+        "stay_date": "Ocak 2025",
+        "review_text": "Positive: Konumu çok iyiydi,her yere yürüme mesafesinde, temizliği harikaydı.\nNegative: Konumu çok iyiydi,her yere yürüme mesafesinde, temizliği harikaydı.",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Ahmet",
+        "stay_date": "Ocak 2025",
+        "review_text": "Positive: Konum\nNegative: Konum",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Nurdan",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Otelin merkezi konumu bütün turistik noktalara yürüme mesafesinde olması en büyük avantajı\nOdamız da temiz ve kahvaltı da gayet yeterliydi \nAtina da daha önceki konaklamalarımı farklı bölgelerde yapmıştım ama beni en mutlu eden bu otel oldu\nNegative: Otelin merkezi konumu bütün turistik noktalara yürüme mesafesinde olması en büyük avantajı\nOdamız da temiz ve kahvaltı da gayet yeterliydi \nAtina da daha önceki konaklamalarımı farklı bölgelerde yapmıştım ama beni en mutlu eden bu otel oldu",
+        "rating": 9.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Neslihan",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Çok merkezi bir konumda ve gezilecek turistik yerlere yürüme mesafesinde olması çok iyiydi. Kahvaltısı da gayet yeterliydi. Personel çok güleryüzlü ve yardımseverdi. Aile olarak tavsiye edebileceğimiz bir otel oldu bizim için.\nNegative: Çok merkezi bir konumda ve gezilecek turistik yerlere yürüme mesafesinde olması çok iyiydi. Kahvaltısı da gayet yeterliydi. Personel çok güleryüzlü ve yardımseverdi. Aile olarak tavsiye edebileceğimiz bir otel oldu bizim için.",
+        "rating": 9.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Adnan",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Konum mükemmel bütün turistik mekanlara ve popüler mekanlara yürüme mesafesindeydi. Temiz ve yeterli bir kahvaltı sundular. Çalışanlar çok ilgiliydi.\nNegative: Konum mükemmel bütün turistik mekanlara ve popüler mekanlara yürüme mesafesindeydi. Temiz ve yeterli bir kahvaltı sundular. Çalışanlar çok ilgiliydi.",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Cihat",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Öncelikle konumu harika!\nÇalışanlar işini çok iyi yapıyor.\nKahvaltı ve temizlik çok yeterli.\nNegative: Öncelikle konumu harika!\nÇalışanlar işini çok iyi yapıyor.\nKahvaltı ve temizlik çok yeterli.",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Lütfiye",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Oda manzarası müthişti yatak rahattı. Odada çay kahve keetle vardı.kahvalti iyiydi. Tüm çalışanlar yardımsever ve guleryuzluydu bir daha gidilince kalınır.\nNegative: Oda manzarası müthişti yatak rahattı. Odada çay kahve keetle vardı.kahvalti iyiydi. Tüm çalışanlar yardımsever ve guleryuzluydu bir daha gidilince kalınır.",
+        "rating": 9.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Koşak",
+        "stay_date": "Kasım 2024",
+        "review_text": "Positive: Kahvaltısı çok çeşitliydi. Konumu turistik noktalara yürüme mesafesinde. Otelin çevresinde gece rahatça gezilebilir. Güvenilir bir konumda. Teras manzarası muhteşem. Terlik ve ütü istediğimizde hemen yardımcı oldular.\nNegative: Kahvaltısı çok çeşitliydi. Konumu turistik noktalara yürüme mesafesinde. Otelin çevresinde gece rahatça gezilebilir. Güvenilir bir konumda. Teras manzarası muhteşem. Terlik ve ütü istediğimizde hemen yardımcı oldular.",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Sezercan",
+        "stay_date": "Kasım 2024",
+        "review_text": "Positive: Her yere çok yakın ve yürüme mesafesinde\nGüzel bir kahvaltısı var\nNegative: Her yere çok yakın ve yürüme mesafesinde\nGüzel bir kahvaltısı var",
+        "rating": 9.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Ali",
+        "stay_date": "Kasım 2024",
+        "review_text": "Positive: Konumu şehrin tam kalbinde \nPersonel inanılmaz nitelikli \nKahvaltısı gerçekten çeşitli \nTerasının manzarası eşsiz\nNegative: Konumu şehrin tam kalbinde \nPersonel inanılmaz nitelikli \nKahvaltısı gerçekten çeşitli \nTerasının manzarası eşsiz",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Efruz",
+        "stay_date": "Ocak 2025",
+        "review_text": "Positive: Konumu çok iyiydi,her yere yürüme mesafesinde, temizliği harikaydı.\nNegative: Konumu çok iyiydi,her yere yürüme mesafesinde, temizliği harikaydı.",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Ahmet",
+        "stay_date": "Ocak 2025",
+        "review_text": "Positive: Konum\nNegative: Konum",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Nurdan",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Otelin merkezi konumu bütün turistik noktalara yürüme mesafesinde olması en büyük avantajı\nOdamız da temiz ve kahvaltı da gayet yeterliydi \nAtina da daha önceki konaklamalarımı farklı bölgelerde yapmıştım ama beni en mutlu eden bu otel oldu\nNegative: Otelin merkezi konumu bütün turistik noktalara yürüme mesafesinde olması en büyük avantajı\nOdamız da temiz ve kahvaltı da gayet yeterliydi \nAtina da daha önceki konaklamalarımı farklı bölgelerde yapmıştım ama beni en mutlu eden bu otel oldu",
+        "rating": 9.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Neslihan",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Çok merkezi bir konumda ve gezilecek turistik yerlere yürüme mesafesinde olması çok iyiydi. Kahvaltısı da gayet yeterliydi. Personel çok güleryüzlü ve yardımseverdi. Aile olarak tavsiye edebileceğimiz bir otel oldu bizim için.\nNegative: Çok merkezi bir konumda ve gezilecek turistik yerlere yürüme mesafesinde olması çok iyiydi. Kahvaltısı da gayet yeterliydi. Personel çok güleryüzlü ve yardımseverdi. Aile olarak tavsiye edebileceğimiz bir otel oldu bizim için.",
+        "rating": 9.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Adnan",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Konum mükemmel bütün turistik mekanlara ve popüler mekanlara yürüme mesafesindeydi. Temiz ve yeterli bir kahvaltı sundular. Çalışanlar çok ilgiliydi.\nNegative: Konum mükemmel bütün turistik mekanlara ve popüler mekanlara yürüme mesafesindeydi. Temiz ve yeterli bir kahvaltı sundular. Çalışanlar çok ilgiliydi.",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Cihat",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Öncelikle konumu harika!\nÇalışanlar işini çok iyi yapıyor.\nKahvaltı ve temizlik çok yeterli.\nNegative: Öncelikle konumu harika!\nÇalışanlar işini çok iyi yapıyor.\nKahvaltı ve temizlik çok yeterli.",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Lütfiye",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Oda manzarası müthişti yatak rahattı. Odada çay kahve keetle vardı.kahvalti iyiydi. Tüm çalışanlar yardımsever ve guleryuzluydu bir daha gidilince kalınır.\nNegative: Oda manzarası müthişti yatak rahattı. Odada çay kahve keetle vardı.kahvalti iyiydi. Tüm çalışanlar yardımsever ve guleryuzluydu bir daha gidilince kalınır.",
+        "rating": 9.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Koşak",
+        "stay_date": "Kasım 2024",
+        "review_text": "Positive: Kahvaltısı çok çeşitliydi. Konumu turistik noktalara yürüme mesafesinde. Otelin çevresinde gece rahatça gezilebilir. Güvenilir bir konumda. Teras manzarası muhteşem. Terlik ve ütü istediğimizde hemen yardımcı oldular.\nNegative: Kahvaltısı çok çeşitliydi. Konumu turistik noktalara yürüme mesafesinde. Otelin çevresinde gece rahatça gezilebilir. Güvenilir bir konumda. Teras manzarası muhteşem. Terlik ve ütü istediğimizde hemen yardımcı oldular.",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Sezercan",
+        "stay_date": "Kasım 2024",
+        "review_text": "Positive: Her yere çok yakın ve yürüme mesafesinde\nGüzel bir kahvaltısı var\nNegative: Her yere çok yakın ve yürüme mesafesinde\nGüzel bir kahvaltısı var",
+        "rating": 9.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Ali",
+        "stay_date": "Kasım 2024",
+        "review_text": "Positive: Konumu şehrin tam kalbinde \nPersonel inanılmaz nitelikli \nKahvaltısı gerçekten çeşitli \nTerasının manzarası eşsiz\nNegative: Konumu şehrin tam kalbinde \nPersonel inanılmaz nitelikli \nKahvaltısı gerçekten çeşitli \nTerasının manzarası eşsiz",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Efruz",
+        "stay_date": "Ocak 2025",
+        "review_text": "Positive: Konumu çok iyiydi,her yere yürüme mesafesinde, temizliği harikaydı.\nNegative: Konumu çok iyiydi,her yere yürüme mesafesinde, temizliği harikaydı.",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Ahmet",
+        "stay_date": "Ocak 2025",
+        "review_text": "Positive: Konum\nNegative: Konum",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Nurdan",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Otelin merkezi konumu bütün turistik noktalara yürüme mesafesinde olması en büyük avantajı\nOdamız da temiz ve kahvaltı da gayet yeterliydi \nAtina da daha önceki konaklamalarımı farklı bölgelerde yapmıştım ama beni en mutlu eden bu otel oldu\nNegative: Otelin merkezi konumu bütün turistik noktalara yürüme mesafesinde olması en büyük avantajı\nOdamız da temiz ve kahvaltı da gayet yeterliydi \nAtina da daha önceki konaklamalarımı farklı bölgelerde yapmıştım ama beni en mutlu eden bu otel oldu",
+        "rating": 9.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Neslihan",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Çok merkezi bir konumda ve gezilecek turistik yerlere yürüme mesafesinde olması çok iyiydi. Kahvaltısı da gayet yeterliydi. Personel çok güleryüzlü ve yardımseverdi. Aile olarak tavsiye edebileceğimiz bir otel oldu bizim için.\nNegative: Çok merkezi bir konumda ve gezilecek turistik yerlere yürüme mesafesinde olması çok iyiydi. Kahvaltısı da gayet yeterliydi. Personel çok güleryüzlü ve yardımseverdi. Aile olarak tavsiye edebileceğimiz bir otel oldu bizim için.",
+        "rating": 9.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Adnan",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Konum mükemmel bütün turistik mekanlara ve popüler mekanlara yürüme mesafesindeydi. Temiz ve yeterli bir kahvaltı sundular. Çalışanlar çok ilgiliydi.\nNegative: Konum mükemmel bütün turistik mekanlara ve popüler mekanlara yürüme mesafesindeydi. Temiz ve yeterli bir kahvaltı sundular. Çalışanlar çok ilgiliydi.",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Cihat",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Öncelikle konumu harika!\nÇalışanlar işini çok iyi yapıyor.\nKahvaltı ve temizlik çok yeterli.\nNegative: Öncelikle konumu harika!\nÇalışanlar işini çok iyi yapıyor.\nKahvaltı ve temizlik çok yeterli.",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Lütfiye",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Oda manzarası müthişti yatak rahattı. Odada çay kahve keetle vardı.kahvalti iyiydi. Tüm çalışanlar yardımsever ve guleryuzluydu bir daha gidilince kalınır.\nNegative: Oda manzarası müthişti yatak rahattı. Odada çay kahve keetle vardı.kahvalti iyiydi. Tüm çalışanlar yardımsever ve guleryuzluydu bir daha gidilince kalınır.",
+        "rating": 9.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Koşak",
+        "stay_date": "Kasım 2024",
+        "review_text": "Positive: Kahvaltısı çok çeşitliydi. Konumu turistik noktalara yürüme mesafesinde. Otelin çevresinde gece rahatça gezilebilir. Güvenilir bir konumda. Teras manzarası muhteşem. Terlik ve ütü istediğimizde hemen yardımcı oldular.\nNegative: Kahvaltısı çok çeşitliydi. Konumu turistik noktalara yürüme mesafesinde. Otelin çevresinde gece rahatça gezilebilir. Güvenilir bir konumda. Teras manzarası muhteşem. Terlik ve ütü istediğimizde hemen yardımcı oldular.",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Sezercan",
+        "stay_date": "Kasım 2024",
+        "review_text": "Positive: Her yere çok yakın ve yürüme mesafesinde\nGüzel bir kahvaltısı var\nNegative: Her yere çok yakın ve yürüme mesafesinde\nGüzel bir kahvaltısı var",
+        "rating": 9.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Ali",
+        "stay_date": "Kasım 2024",
+        "review_text": "Positive: Konumu şehrin tam kalbinde \nPersonel inanılmaz nitelikli \nKahvaltısı gerçekten çeşitli \nTerasının manzarası eşsiz\nNegative: Konumu şehrin tam kalbinde \nPersonel inanılmaz nitelikli \nKahvaltısı gerçekten çeşitli \nTerasının manzarası eşsiz",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Efruz",
+        "stay_date": "Ocak 2025",
+        "review_text": "Positive: Konumu çok iyiydi,her yere yürüme mesafesinde, temizliği harikaydı.\nNegative: Konumu çok iyiydi,her yere yürüme mesafesinde, temizliği harikaydı.",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Ahmet",
+        "stay_date": "Ocak 2025",
+        "review_text": "Positive: Konum\nNegative: Konum",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Nurdan",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Otelin merkezi konumu bütün turistik noktalara yürüme mesafesinde olması en büyük avantajı\nOdamız da temiz ve kahvaltı da gayet yeterliydi \nAtina da daha önceki konaklamalarımı farklı bölgelerde yapmıştım ama beni en mutlu eden bu otel oldu\nNegative: Otelin merkezi konumu bütün turistik noktalara yürüme mesafesinde olması en büyük avantajı\nOdamız da temiz ve kahvaltı da gayet yeterliydi \nAtina da daha önceki konaklamalarımı farklı bölgelerde yapmıştım ama beni en mutlu eden bu otel oldu",
+        "rating": 9.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Neslihan",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Çok merkezi bir konumda ve gezilecek turistik yerlere yürüme mesafesinde olması çok iyiydi. Kahvaltısı da gayet yeterliydi. Personel çok güleryüzlü ve yardımseverdi. Aile olarak tavsiye edebileceğimiz bir otel oldu bizim için.\nNegative: Çok merkezi bir konumda ve gezilecek turistik yerlere yürüme mesafesinde olması çok iyiydi. Kahvaltısı da gayet yeterliydi. Personel çok güleryüzlü ve yardımseverdi. Aile olarak tavsiye edebileceğimiz bir otel oldu bizim için.",
+        "rating": 9.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Adnan",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Konum mükemmel bütün turistik mekanlara ve popüler mekanlara yürüme mesafesindeydi. Temiz ve yeterli bir kahvaltı sundular. Çalışanlar çok ilgiliydi.\nNegative: Konum mükemmel bütün turistik mekanlara ve popüler mekanlara yürüme mesafesindeydi. Temiz ve yeterli bir kahvaltı sundular. Çalışanlar çok ilgiliydi.",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Cihat",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Öncelikle konumu harika!\nÇalışanlar işini çok iyi yapıyor.\nKahvaltı ve temizlik çok yeterli.\nNegative: Öncelikle konumu harika!\nÇalışanlar işini çok iyi yapıyor.\nKahvaltı ve temizlik çok yeterli.",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Lütfiye",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Oda manzarası müthişti yatak rahattı. Odada çay kahve keetle vardı.kahvalti iyiydi. Tüm çalışanlar yardımsever ve guleryuzluydu bir daha gidilince kalınır.\nNegative: Oda manzarası müthişti yatak rahattı. Odada çay kahve keetle vardı.kahvalti iyiydi. Tüm çalışanlar yardımsever ve guleryuzluydu bir daha gidilince kalınır.",
+        "rating": 9.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Koşak",
+        "stay_date": "Kasım 2024",
+        "review_text": "Positive: Kahvaltısı çok çeşitliydi. Konumu turistik noktalara yürüme mesafesinde. Otelin çevresinde gece rahatça gezilebilir. Güvenilir bir konumda. Teras manzarası muhteşem. Terlik ve ütü istediğimizde hemen yardımcı oldular.\nNegative: Kahvaltısı çok çeşitliydi. Konumu turistik noktalara yürüme mesafesinde. Otelin çevresinde gece rahatça gezilebilir. Güvenilir bir konumda. Teras manzarası muhteşem. Terlik ve ütü istediğimizde hemen yardımcı oldular.",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Sezercan",
+        "stay_date": "Kasım 2024",
+        "review_text": "Positive: Her yere çok yakın ve yürüme mesafesinde\nGüzel bir kahvaltısı var\nNegative: Her yere çok yakın ve yürüme mesafesinde\nGüzel bir kahvaltısı var",
+        "rating": 9.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Ali",
+        "stay_date": "Kasım 2024",
+        "review_text": "Positive: Konumu şehrin tam kalbinde \nPersonel inanılmaz nitelikli \nKahvaltısı gerçekten çeşitli \nTerasının manzarası eşsiz\nNegative: Konumu şehrin tam kalbinde \nPersonel inanılmaz nitelikli \nKahvaltısı gerçekten çeşitli \nTerasının manzarası eşsiz",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Efruz",
+        "stay_date": "Ocak 2025",
+        "review_text": "Positive: Konumu çok iyiydi,her yere yürüme mesafesinde, temizliği harikaydı.\nNegative: Konumu çok iyiydi,her yere yürüme mesafesinde, temizliği harikaydı.",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Ahmet",
+        "stay_date": "Ocak 2025",
+        "review_text": "Positive: Konum\nNegative: Konum",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Nurdan",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Otelin merkezi konumu bütün turistik noktalara yürüme mesafesinde olması en büyük avantajı\nOdamız da temiz ve kahvaltı da gayet yeterliydi \nAtina da daha önceki konaklamalarımı farklı bölgelerde yapmıştım ama beni en mutlu eden bu otel oldu\nNegative: Otelin merkezi konumu bütün turistik noktalara yürüme mesafesinde olması en büyük avantajı\nOdamız da temiz ve kahvaltı da gayet yeterliydi \nAtina da daha önceki konaklamalarımı farklı bölgelerde yapmıştım ama beni en mutlu eden bu otel oldu",
+        "rating": 9.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Neslihan",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Çok merkezi bir konumda ve gezilecek turistik yerlere yürüme mesafesinde olması çok iyiydi. Kahvaltısı da gayet yeterliydi. Personel çok güleryüzlü ve yardımseverdi. Aile olarak tavsiye edebileceğimiz bir otel oldu bizim için.\nNegative: Çok merkezi bir konumda ve gezilecek turistik yerlere yürüme mesafesinde olması çok iyiydi. Kahvaltısı da gayet yeterliydi. Personel çok güleryüzlü ve yardımseverdi. Aile olarak tavsiye edebileceğimiz bir otel oldu bizim için.",
+        "rating": 9.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Adnan",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Konum mükemmel bütün turistik mekanlara ve popüler mekanlara yürüme mesafesindeydi. Temiz ve yeterli bir kahvaltı sundular. Çalışanlar çok ilgiliydi.\nNegative: Konum mükemmel bütün turistik mekanlara ve popüler mekanlara yürüme mesafesindeydi. Temiz ve yeterli bir kahvaltı sundular. Çalışanlar çok ilgiliydi.",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Cihat",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Öncelikle konumu harika!\nÇalışanlar işini çok iyi yapıyor.\nKahvaltı ve temizlik çok yeterli.\nNegative: Öncelikle konumu harika!\nÇalışanlar işini çok iyi yapıyor.\nKahvaltı ve temizlik çok yeterli.",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Lütfiye",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Oda manzarası müthişti yatak rahattı. Odada çay kahve keetle vardı.kahvalti iyiydi. Tüm çalışanlar yardımsever ve guleryuzluydu bir daha gidilince kalınır.\nNegative: Oda manzarası müthişti yatak rahattı. Odada çay kahve keetle vardı.kahvalti iyiydi. Tüm çalışanlar yardımsever ve guleryuzluydu bir daha gidilince kalınır.",
+        "rating": 9.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Koşak",
+        "stay_date": "Kasım 2024",
+        "review_text": "Positive: Kahvaltısı çok çeşitliydi. Konumu turistik noktalara yürüme mesafesinde. Otelin çevresinde gece rahatça gezilebilir. Güvenilir bir konumda. Teras manzarası muhteşem. Terlik ve ütü istediğimizde hemen yardımcı oldular.\nNegative: Kahvaltısı çok çeşitliydi. Konumu turistik noktalara yürüme mesafesinde. Otelin çevresinde gece rahatça gezilebilir. Güvenilir bir konumda. Teras manzarası muhteşem. Terlik ve ütü istediğimizde hemen yardımcı oldular.",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Sezercan",
+        "stay_date": "Kasım 2024",
+        "review_text": "Positive: Her yere çok yakın ve yürüme mesafesinde\nGüzel bir kahvaltısı var\nNegative: Her yere çok yakın ve yürüme mesafesinde\nGüzel bir kahvaltısı var",
+        "rating": 9.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Ali",
+        "stay_date": "Kasım 2024",
+        "review_text": "Positive: Konumu şehrin tam kalbinde \nPersonel inanılmaz nitelikli \nKahvaltısı gerçekten çeşitli \nTerasının manzarası eşsiz\nNegative: Konumu şehrin tam kalbinde \nPersonel inanılmaz nitelikli \nKahvaltısı gerçekten çeşitli \nTerasının manzarası eşsiz",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Efruz",
+        "stay_date": "Ocak 2025",
+        "review_text": "Positive: Konumu çok iyiydi,her yere yürüme mesafesinde, temizliği harikaydı.\nNegative: Konumu çok iyiydi,her yere yürüme mesafesinde, temizliği harikaydı.",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Ahmet",
+        "stay_date": "Ocak 2025",
+        "review_text": "Positive: Konum\nNegative: Konum",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Nurdan",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Otelin merkezi konumu bütün turistik noktalara yürüme mesafesinde olması en büyük avantajı\nOdamız da temiz ve kahvaltı da gayet yeterliydi \nAtina da daha önceki konaklamalarımı farklı bölgelerde yapmıştım ama beni en mutlu eden bu otel oldu\nNegative: Otelin merkezi konumu bütün turistik noktalara yürüme mesafesinde olması en büyük avantajı\nOdamız da temiz ve kahvaltı da gayet yeterliydi \nAtina da daha önceki konaklamalarımı farklı bölgelerde yapmıştım ama beni en mutlu eden bu otel oldu",
+        "rating": 9.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Neslihan",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Çok merkezi bir konumda ve gezilecek turistik yerlere yürüme mesafesinde olması çok iyiydi. Kahvaltısı da gayet yeterliydi. Personel çok güleryüzlü ve yardımseverdi. Aile olarak tavsiye edebileceğimiz bir otel oldu bizim için.\nNegative: Çok merkezi bir konumda ve gezilecek turistik yerlere yürüme mesafesinde olması çok iyiydi. Kahvaltısı da gayet yeterliydi. Personel çok güleryüzlü ve yardımseverdi. Aile olarak tavsiye edebileceğimiz bir otel oldu bizim için.",
+        "rating": 9.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Adnan",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Konum mükemmel bütün turistik mekanlara ve popüler mekanlara yürüme mesafesindeydi. Temiz ve yeterli bir kahvaltı sundular. Çalışanlar çok ilgiliydi.\nNegative: Konum mükemmel bütün turistik mekanlara ve popüler mekanlara yürüme mesafesindeydi. Temiz ve yeterli bir kahvaltı sundular. Çalışanlar çok ilgiliydi.",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Cihat",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Öncelikle konumu harika!\nÇalışanlar işini çok iyi yapıyor.\nKahvaltı ve temizlik çok yeterli.\nNegative: Öncelikle konumu harika!\nÇalışanlar işini çok iyi yapıyor.\nKahvaltı ve temizlik çok yeterli.",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Lütfiye",
+        "stay_date": "Aralık 2024",
+        "review_text": "Positive: Oda manzarası müthişti yatak rahattı. Odada çay kahve keetle vardı.kahvalti iyiydi. Tüm çalışanlar yardımsever ve guleryuzluydu bir daha gidilince kalınır.\nNegative: Oda manzarası müthişti yatak rahattı. Odada çay kahve keetle vardı.kahvalti iyiydi. Tüm çalışanlar yardımsever ve guleryuzluydu bir daha gidilince kalınır.",
+        "rating": 9.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Koşak",
+        "stay_date": "Kasım 2024",
+        "review_text": "Positive: Kahvaltısı çok çeşitliydi. Konumu turistik noktalara yürüme mesafesinde. Otelin çevresinde gece rahatça gezilebilir. Güvenilir bir konumda. Teras manzarası muhteşem. Terlik ve ütü istediğimizde hemen yardımcı oldular.\nNegative: Kahvaltısı çok çeşitliydi. Konumu turistik noktalara yürüme mesafesinde. Otelin çevresinde gece rahatça gezilebilir. Güvenilir bir konumda. Teras manzarası muhteşem. Terlik ve ütü istediğimizde hemen yardımcı oldular.",
+        "rating": 10.0,
+        "source": "Booking.com"
+    },
+    {
+        "customer_name": "Sezercan",
+        "stay_date": "Kasım 2024",
+        "review_text": "Positive: Her yere çok yakın ve yürüme mesafesinde\nGüzel bir kahvaltısı var\nNegative: Her yere çok yakın ve yürüme mesafesinde\nGüzel bir kahvaltısı var",
+        "rating": 9.0,
+        "source": "Booking.com"
+    }
+]
